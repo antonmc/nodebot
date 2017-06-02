@@ -1,0 +1,1063 @@
+{
+    "name": "Smoking Cessation",
+    "created": "2017-05-03T19:36:54.430Z",
+    "intents": [{
+        "intent": "Appearance",
+        "created": "2017-05-10T18:35:32.657Z",
+        "updated": "2017-05-10T18:43:32.984Z",
+        "examples": [{
+            "text": "Do you have a body",
+            "created": "2017-05-10T18:35:32.657Z",
+            "updated": "2017-05-10T18:35:32.657Z"
+        }, {
+            "text": "how do you look",
+            "created": "2017-05-10T18:43:32.984Z",
+            "updated": "2017-05-10T18:43:32.984Z"
+        }, {
+            "text": "Tell me what you look like",
+            "created": "2017-05-10T18:35:32.657Z",
+            "updated": "2017-05-10T18:35:32.657Z"
+        }, {
+            "text": "What do you look like",
+            "created": "2017-05-10T18:35:32.657Z",
+            "updated": "2017-05-10T18:35:32.657Z"
+        }, {
+            "text": "What is your appearance",
+            "created": "2017-05-10T18:35:32.657Z",
+            "updated": "2017-05-10T18:35:32.657Z"
+        }],
+        "description": null
+    }, {
+        "intent": "cravings",
+        "created": "2017-05-04T17:43:56.755Z",
+        "updated": "2017-05-04T17:43:56.755Z",
+        "examples": [],
+        "description": null
+    }, {
+        "intent": "depression",
+        "created": "2017-05-04T17:54:35.146Z",
+        "updated": "2017-05-04T17:54:35.146Z",
+        "examples": [],
+        "description": null
+    }, {
+        "intent": "exploreMedications",
+        "created": "2017-05-04T17:43:42.497Z",
+        "updated": "2017-05-04T17:43:42.497Z",
+        "examples": [],
+        "description": null
+    }, {
+        "intent": "gettingSupportAsYouQuit",
+        "created": "2017-05-04T17:43:52.124Z",
+        "updated": "2017-05-04T17:43:52.124Z",
+        "examples": [],
+        "description": null
+    }, {
+        "intent": "Goodbye",
+        "created": "2017-05-03T19:59:35.610Z",
+        "updated": "2017-05-03T20:08:05.578Z",
+        "examples": [{
+            "text": "Bye",
+            "created": "2017-05-03T20:07:41.223Z",
+            "updated": "2017-05-03T20:07:41.223Z"
+        }, {
+            "text": "Cya",
+            "created": "2017-05-03T20:07:46.882Z",
+            "updated": "2017-05-03T20:07:46.882Z"
+        }, {
+            "text": "Got to go",
+            "created": "2017-05-03T20:07:44.715Z",
+            "updated": "2017-05-03T20:07:44.715Z"
+        }, {
+            "text": "I'm done talking",
+            "created": "2017-05-03T20:07:55.758Z",
+            "updated": "2017-05-03T20:07:55.758Z"
+        }, {
+            "text": "Later",
+            "created": "2017-05-03T20:07:49.013Z",
+            "updated": "2017-05-03T20:07:49.013Z"
+        }, {
+            "text": "See ya",
+            "created": "2017-05-03T20:07:59.422Z",
+            "updated": "2017-05-03T20:07:59.422Z"
+        }, {
+            "text": "so long",
+            "created": "2017-05-03T20:08:05.578Z",
+            "updated": "2017-05-03T20:08:05.578Z"
+        }],
+        "description": null
+    }, {
+        "intent": "Greeting",
+        "created": "2017-05-03T19:40:54.003Z",
+        "updated": "2017-05-10T17:36:06.025Z",
+        "examples": [{
+            "text": "Are you doing ok",
+            "created": "2017-05-10T17:36:06.025Z",
+            "updated": "2017-05-10T17:36:06.025Z"
+        }, {
+            "text": "good afternoon",
+            "created": "2017-05-03T19:40:54.003Z",
+            "updated": "2017-05-03T19:40:54.003Z"
+        }, {
+            "text": "good morning",
+            "created": "2017-05-03T19:40:54.003Z",
+            "updated": "2017-05-03T19:40:54.003Z"
+        }, {
+            "text": "Hello",
+            "created": "2017-05-03T19:40:54.003Z",
+            "updated": "2017-05-03T19:40:54.003Z"
+        }, {
+            "text": "Hello, how are you",
+            "created": "2017-05-10T17:35:49.546Z",
+            "updated": "2017-05-10T17:35:49.546Z"
+        }, {
+            "text": "hey",
+            "created": "2017-05-03T19:40:54.003Z",
+            "updated": "2017-05-03T19:40:54.003Z"
+        }, {
+            "text": "Hi",
+            "created": "2017-05-03T19:40:54.003Z",
+            "updated": "2017-05-03T19:40:54.003Z"
+        }, {
+            "text": "hola",
+            "created": "2017-05-03T19:40:54.003Z",
+            "updated": "2017-05-03T19:40:54.003Z"
+        }, {
+            "text": "How are you",
+            "created": "2017-05-10T17:35:53.033Z",
+            "updated": "2017-05-10T17:35:53.033Z"
+        }, {
+            "text": "sup",
+            "created": "2017-05-03T19:40:54.003Z",
+            "updated": "2017-05-03T19:40:54.003Z"
+        }, {
+            "text": "what's up",
+            "created": "2017-05-03T19:40:54.003Z",
+            "updated": "2017-05-03T19:40:54.003Z"
+        }, {
+            "text": "Yo",
+            "created": "2017-05-03T19:40:54.003Z",
+            "updated": "2017-05-03T19:40:54.003Z"
+        }],
+        "description": null
+    }, {
+        "intent": "help",
+        "created": "2017-05-10T13:46:11.654Z",
+        "updated": "2017-05-10T13:46:57.266Z",
+        "examples": [{
+            "text": "help",
+            "created": "2017-05-10T13:46:41.371Z",
+            "updated": "2017-05-10T13:46:41.371Z"
+        }, {
+            "text": "help me",
+            "created": "2017-05-10T13:46:44.714Z",
+            "updated": "2017-05-10T13:46:44.714Z"
+        }, {
+            "text": "How can you help me",
+            "created": "2017-05-10T13:46:11.654Z",
+            "updated": "2017-05-10T13:46:11.654Z"
+        }, {
+            "text": "How does this work",
+            "created": "2017-05-10T13:46:30.995Z",
+            "updated": "2017-05-10T13:46:30.995Z"
+        }, {
+            "text": "I'm not sure what to do",
+            "created": "2017-05-10T13:46:57.266Z",
+            "updated": "2017-05-10T13:46:57.266Z"
+        }, {
+            "text": "I need help",
+            "created": "2017-05-10T13:46:11.654Z",
+            "updated": "2017-05-10T13:46:11.654Z"
+        }, {
+            "text": "What do I do",
+            "created": "2017-05-10T13:46:11.654Z",
+            "updated": "2017-05-10T13:46:11.654Z"
+        }, {
+            "text": "What do you do",
+            "created": "2017-05-10T13:46:31.047Z",
+            "updated": "2017-05-10T13:46:31.047Z"
+        }],
+        "description": null
+    }, {
+        "intent": "impactOnOthers",
+        "created": "2017-05-04T17:43:34.894Z",
+        "updated": "2017-05-04T17:43:34.894Z",
+        "examples": [],
+        "description": null
+    }, {
+        "intent": "Language",
+        "created": "2017-05-10T17:32:32.616Z",
+        "updated": "2017-05-10T17:32:32.616Z",
+        "examples": [{
+            "text": "Do you speak other languages?",
+            "created": "2017-05-10T17:32:32.616Z",
+            "updated": "2017-05-10T17:32:32.616Z"
+        }, {
+            "text": "Language",
+            "created": "2017-05-10T17:32:32.616Z",
+            "updated": "2017-05-10T17:32:32.616Z"
+        }, {
+            "text": "Language spoken",
+            "created": "2017-05-10T17:32:32.616Z",
+            "updated": "2017-05-10T17:32:32.616Z"
+        }, {
+            "text": "What do you speak",
+            "created": "2017-05-10T17:32:32.616Z",
+            "updated": "2017-05-10T17:32:32.616Z"
+        }, {
+            "text": "What is your native tongue",
+            "created": "2017-05-10T17:32:32.616Z",
+            "updated": "2017-05-10T17:32:32.616Z"
+        }, {
+            "text": "What language do you speak",
+            "created": "2017-05-10T17:32:32.616Z",
+            "updated": "2017-05-10T17:32:32.616Z"
+        }, {
+            "text": "Which languages do you speak",
+            "created": "2017-05-10T17:32:32.616Z",
+            "updated": "2017-05-10T17:32:32.616Z"
+        }],
+        "description": null
+    }, {
+        "intent": "No",
+        "created": "2017-05-10T19:04:31.981Z",
+        "updated": "2017-05-10T19:04:31.981Z",
+        "examples": [{
+            "text": "Nah",
+            "created": "2017-05-10T19:04:31.981Z",
+            "updated": "2017-05-10T19:04:31.981Z"
+        }, {
+            "text": "No",
+            "created": "2017-05-10T19:04:31.981Z",
+            "updated": "2017-05-10T19:04:31.981Z"
+        }, {
+            "text": "no I'm ok",
+            "created": "2017-05-10T19:04:31.981Z",
+            "updated": "2017-05-10T19:04:31.981Z"
+        }, {
+            "text": "Nope",
+            "created": "2017-05-10T19:04:31.981Z",
+            "updated": "2017-05-10T19:04:31.981Z"
+        }, {
+            "text": "no thanks",
+            "created": "2017-05-10T19:04:31.981Z",
+            "updated": "2017-05-10T19:04:31.981Z"
+        }, {
+            "text": "not right now",
+            "created": "2017-05-10T19:04:31.981Z",
+            "updated": "2017-05-10T19:04:31.981Z"
+        }, {
+            "text": "no way",
+            "created": "2017-05-10T19:04:31.981Z",
+            "updated": "2017-05-10T19:04:31.981Z"
+        }],
+        "description": null
+    }, {
+        "intent": "reasonsToQuit",
+        "created": "2017-05-04T17:43:25.923Z",
+        "updated": "2017-05-12T19:12:04.317Z",
+        "examples": [{
+            "text": "health",
+            "created": "2017-05-12T19:12:04.317Z",
+            "updated": "2017-05-12T19:12:04.317Z"
+        }, {
+            "text": "Quit smoking",
+            "created": "2017-05-04T17:56:59.135Z",
+            "updated": "2017-05-04T17:56:59.135Z"
+        }, {
+            "text": "Reasons to quit smoking",
+            "created": "2017-05-04T17:56:46.340Z",
+            "updated": "2017-05-04T17:56:46.340Z"
+        }, {
+            "text": "Reasons to stop smoking",
+            "created": "2017-05-04T17:57:20.440Z",
+            "updated": "2017-05-04T17:57:20.440Z"
+        }, {
+            "text": "Stop smoking",
+            "created": "2017-05-04T17:57:24.131Z",
+            "updated": "2017-05-04T17:57:24.131Z"
+        }, {
+            "text": "Why should I quit",
+            "created": "2017-05-04T17:56:27.303Z",
+            "updated": "2017-05-04T17:56:36.454Z"
+        }, {
+            "text": "Why should I quit smoking",
+            "created": "2017-05-04T17:56:52.615Z",
+            "updated": "2017-05-04T17:56:52.615Z"
+        }],
+        "description": null
+    }, {
+        "intent": "recommendedProducts",
+        "created": "2017-05-04T17:45:13.827Z",
+        "updated": "2017-05-04T17:45:13.827Z",
+        "examples": [],
+        "description": null
+    }, {
+        "intent": "rewardsOfQuitting",
+        "created": "2017-05-04T17:45:29.883Z",
+        "updated": "2017-05-04T17:45:29.883Z",
+        "examples": [],
+        "description": null
+    }, {
+        "intent": "secondhandSmoking",
+        "created": "2017-05-04T17:54:43.263Z",
+        "updated": "2017-05-04T17:54:43.263Z",
+        "examples": [],
+        "description": null
+    }, {
+        "intent": "stayingSmokefree",
+        "created": "2017-05-04T17:44:01.885Z",
+        "updated": "2017-05-04T17:44:01.885Z",
+        "examples": [],
+        "description": null
+    }, {
+        "intent": "stepsToPrepare",
+        "created": "2017-05-04T17:45:07.190Z",
+        "updated": "2017-05-04T17:45:07.190Z",
+        "examples": [],
+        "description": null
+    }, {
+        "intent": "stepsToTakeOnYourQuitDay",
+        "created": "2017-05-04T17:45:24.237Z",
+        "updated": "2017-05-04T17:45:24.237Z",
+        "examples": [],
+        "description": null
+    }, {
+        "intent": "stressAndSmoking",
+        "created": "2017-05-04T17:44:11.249Z",
+        "updated": "2017-05-04T17:44:11.249Z",
+        "examples": [],
+        "description": null
+    }, {
+        "intent": "Time",
+        "created": "2017-05-10T18:31:49.294Z",
+        "updated": "2017-05-10T18:31:49.294Z",
+        "examples": [{
+            "text": "can you tell me the time",
+            "created": "2017-05-10T18:31:49.294Z",
+            "updated": "2017-05-10T18:31:49.294Z"
+        }, {
+            "text": "Tell me the time",
+            "created": "2017-05-10T18:31:49.294Z",
+            "updated": "2017-05-10T18:31:49.294Z"
+        }, {
+            "text": "Time",
+            "created": "2017-05-10T18:31:49.294Z",
+            "updated": "2017-05-10T18:31:49.294Z"
+        }, {
+            "text": "what is the time",
+            "created": "2017-05-10T18:31:49.294Z",
+            "updated": "2017-05-10T18:31:49.294Z"
+        }, {
+            "text": "What time",
+            "created": "2017-05-10T18:31:49.294Z",
+            "updated": "2017-05-10T18:31:49.294Z"
+        }, {
+            "text": "What time is it",
+            "created": "2017-05-10T18:31:49.294Z",
+            "updated": "2017-05-10T18:31:49.294Z"
+        }],
+        "description": null
+    }, {
+        "intent": "whereDoyouLive",
+        "created": "2017-05-10T13:42:26.616Z",
+        "updated": "2017-05-10T13:45:29.260Z",
+        "examples": [{
+            "text": "What is your address",
+            "created": "2017-05-10T13:42:26.616Z",
+            "updated": "2017-05-10T13:42:26.616Z"
+        }, {
+            "text": "Where do you eat",
+            "created": "2017-05-10T13:42:26.616Z",
+            "updated": "2017-05-10T13:42:26.616Z"
+        }, {
+            "text": "Where do you live",
+            "created": "2017-05-10T13:42:26.616Z",
+            "updated": "2017-05-10T13:42:26.616Z"
+        }, {
+            "text": "Where do you sleep",
+            "created": "2017-05-10T13:42:26.616Z",
+            "updated": "2017-05-10T13:42:26.616Z"
+        }, {
+            "text": "Where is your house",
+            "created": "2017-05-10T13:42:26.616Z",
+            "updated": "2017-05-10T13:42:26.616Z"
+        }],
+        "description": null
+    }, {
+        "intent": "whoAreYou",
+        "created": "2017-05-10T13:30:05.453Z",
+        "updated": "2017-05-10T13:46:31.349Z",
+        "examples": [{
+            "text": "Are you alive",
+            "created": "2017-05-10T13:30:05.453Z",
+            "updated": "2017-05-10T13:30:05.453Z"
+        }, {
+            "text": "Are you real",
+            "created": "2017-05-10T13:30:05.453Z",
+            "updated": "2017-05-10T13:30:05.453Z"
+        }, {
+            "text": "How old are you",
+            "created": "2017-05-10T13:38:00.473Z",
+            "updated": "2017-05-10T13:38:00.473Z"
+        }, {
+            "text": "What are you",
+            "created": "2017-05-10T13:30:05.453Z",
+            "updated": "2017-05-10T13:30:05.453Z"
+        }, {
+            "text": "What is your name",
+            "created": "2017-05-10T13:30:05.453Z",
+            "updated": "2017-05-10T13:30:05.453Z"
+        }, {
+            "text": "Who are you",
+            "created": "2017-05-10T13:30:05.453Z",
+            "updated": "2017-05-10T13:30:05.453Z"
+        }],
+        "description": null
+    }, {
+        "intent": "whyQuittingIsHard",
+        "created": "2017-05-04T17:44:24.955Z",
+        "updated": "2017-05-04T17:44:24.955Z",
+        "examples": [],
+        "description": null
+    }, {
+        "intent": "Yes",
+        "created": "2017-05-10T19:05:09.930Z",
+        "updated": "2017-05-10T19:05:09.930Z",
+        "examples": [{
+            "text": "Certainly",
+            "created": "2017-05-10T19:05:09.930Z",
+            "updated": "2017-05-10T19:05:09.930Z"
+        }, {
+            "text": "Indeed",
+            "created": "2017-05-10T19:05:09.930Z",
+            "updated": "2017-05-10T19:05:09.930Z"
+        }, {
+            "text": "Of course",
+            "created": "2017-05-10T19:05:09.930Z",
+            "updated": "2017-05-10T19:05:09.930Z"
+        }, {
+            "text": "Sure",
+            "created": "2017-05-10T19:05:09.930Z",
+            "updated": "2017-05-10T19:05:09.930Z"
+        }, {
+            "text": "Yes",
+            "created": "2017-05-10T19:05:09.930Z",
+            "updated": "2017-05-10T19:05:09.930Z"
+        }, {
+            "text": "Yes please",
+            "created": "2017-05-10T19:05:09.930Z",
+            "updated": "2017-05-10T19:05:09.930Z"
+        }, {
+            "text": "You know it",
+            "created": "2017-05-10T19:05:09.930Z",
+            "updated": "2017-05-10T19:05:09.930Z"
+        }, {
+            "text": "Yup",
+            "created": "2017-05-10T19:05:09.930Z",
+            "updated": "2017-05-10T19:05:09.930Z"
+        }],
+        "description": null
+    }],
+    "updated": "2017-05-12T19:12:04.317Z",
+    "entities": [{
+        "entity": "Gender",
+        "values": [{
+            "value": "Male",
+            "created": "2017-05-11T15:41:56.618Z",
+            "updated": "2017-05-11T15:42:03.482Z",
+            "metadata": null,
+            "synonyms": ["female"]
+        }],
+        "created": "2017-05-11T15:41:56.618Z",
+        "updated": "2017-05-11T15:42:03.482Z",
+        "metadata": null,
+        "description": null
+    }, {
+        "entity": "sys-currency",
+        "values": [],
+        "created": "2017-05-04T18:41:08.415Z",
+        "updated": "2017-05-04T18:41:08.415Z",
+        "metadata": null,
+        "description": null
+    }, {
+        "entity": "sys-date",
+        "values": [],
+        "created": "2017-05-04T18:41:08.160Z",
+        "updated": "2017-05-04T18:41:08.160Z",
+        "metadata": null,
+        "description": null
+    }, {
+        "entity": "sys-location",
+        "values": [],
+        "created": "2017-05-04T18:41:07.681Z",
+        "updated": "2017-05-04T18:41:07.681Z",
+        "metadata": null,
+        "description": null
+    }, {
+        "entity": "sys-number",
+        "values": [],
+        "created": "2017-05-04T18:41:08.386Z",
+        "updated": "2017-05-04T18:41:08.386Z",
+        "metadata": null,
+        "description": null
+    }, {
+        "entity": "sys-percentage",
+        "values": [],
+        "created": "2017-05-04T18:41:08.168Z",
+        "updated": "2017-05-04T18:41:08.168Z",
+        "metadata": null,
+        "description": null
+    }, {
+        "entity": "sys-person",
+        "values": [],
+        "created": "2017-05-04T18:41:07.654Z",
+        "updated": "2017-05-04T18:41:07.654Z",
+        "metadata": null,
+        "description": null
+    }, {
+        "entity": "sys-time",
+        "values": [],
+        "created": "2017-05-04T18:41:07.780Z",
+        "updated": "2017-05-04T18:41:07.780Z",
+        "metadata": null,
+        "description": null
+    }, {
+        "entity": "length",
+        "values": [{
+            "value": "Month",
+            "created": "2017-05-10T19:54:05.839Z",
+            "updated": "2017-05-10T19:54:05.839Z",
+            "metadata": null,
+            "synonyms": ["Day", "Hour", "Minutes", "Seconds", "Year"]
+        }],
+        "created": "2017-05-10T19:53:25.781Z",
+        "updated": "2017-05-10T19:54:05.839Z",
+        "metadata": null,
+        "description": null,
+        "fuzzy_match": true
+    }, {
+        "entity": "reasonsToQuit",
+        "values": [{
+            "value": "Family",
+            "created": "2017-05-12T19:03:22.476Z",
+            "updated": "2017-05-12T19:03:31.129Z",
+            "metadata": null,
+            "synonyms": ["Loved", "Loved ones", "Ones"]
+        }, {
+            "value": "Health",
+            "created": "2017-05-12T19:02:39.874Z",
+            "updated": "2017-05-12T19:02:46.983Z",
+            "metadata": null,
+            "synonyms": ["Apperance"]
+        }, {
+            "value": "Lifestyle",
+            "created": "2017-05-12T19:03:13.552Z",
+            "updated": "2017-05-12T19:03:13.552Z",
+            "metadata": null,
+            "synonyms": ["Life", "Life Style", "Style"]
+        }],
+        "created": "2017-05-12T19:02:25.043Z",
+        "updated": "2017-05-12T19:03:31.129Z",
+        "metadata": null,
+        "description": null,
+        "fuzzy_match": true
+    }],
+    "language": "en",
+    "metadata": null,
+    "description": "Chatbot around smoking cessation for ThoughtSpot 2017",
+    "dialog_nodes": [{
+        "go_to": null,
+        "output": {},
+        "parent": null,
+        "context": null,
+        "created": "2017-05-10T13:30:38.996Z",
+        "updated": "2017-05-10T13:30:56.878Z",
+        "metadata": null,
+        "conditions": "#whoAreYou",
+        "description": null,
+        "dialog_node": "Who are you",
+        "previous_sibling": "End dialog"
+    }, {
+        "go_to": null,
+        "output": {},
+        "parent": null,
+        "context": null,
+        "created": "2017-05-10T18:32:00.214Z",
+        "updated": "2017-05-10T18:34:33.643Z",
+        "metadata": null,
+        "conditions": "#Time",
+        "description": null,
+        "dialog_node": "Time",
+        "previous_sibling": "Language"
+    }, {
+        "go_to": null,
+        "output": {},
+        "parent": "Reasons to quit",
+        "context": null,
+        "created": "2017-05-12T18:21:25.488Z",
+        "updated": "2017-05-12T19:04:20.497Z",
+        "metadata": null,
+        "conditions": "@reasonsToQuit:Health",
+        "description": null,
+        "dialog_node": "Health and appearance",
+        "previous_sibling": null
+    }, {
+        "go_to": null,
+        "output": {
+            "text": {
+                "values": ["Are you currently a smoker?"],
+                "selection_policy": "sequential"
+            }
+        },
+        "parent": "Understanding Smoking habits",
+        "context": null,
+        "created": "2017-05-10T19:10:21.854Z",
+        "updated": "2017-05-10T19:10:39.899Z",
+        "metadata": null,
+        "conditions": "#Yes",
+        "description": null,
+        "dialog_node": "node_13_1494443421596",
+        "previous_sibling": "node_12_1494443393247"
+    }, {
+        "go_to": null,
+        "output": {
+            "text": {
+                "values": ["Can I ask you a few questions about them?"],
+                "selection_policy": "sequential"
+            }
+        },
+        "parent": "node_14_1494444718378",
+        "context": null,
+        "created": "2017-05-10T19:34:53.933Z",
+        "updated": "2017-05-10T19:36:06.171Z",
+        "metadata": null,
+        "conditions": "#Yes",
+        "description": null,
+        "dialog_node": "node_17_1494444893447",
+        "previous_sibling": "node_16_1494444865914"
+    }, {
+        "go_to": null,
+        "output": {
+            "text": {
+                "values": ["Do you want to hear how it will benefit your health and appearance, lifestyle, or your loved ones?"],
+                "selection_policy": "sequential"
+            }
+        },
+        "parent": null,
+        "context": null,
+        "created": "2017-05-12T18:19:17.883Z",
+        "updated": "2017-05-12T18:21:55.561Z",
+        "metadata": null,
+        "conditions": "#reasonsToQuit",
+        "description": null,
+        "dialog_node": "Reasons to quit",
+        "previous_sibling": "Understanding Smoking habits"
+    }, {
+        "go_to": null,
+        "output": {
+            "text": {
+                "values": ["Great! I'm going to ask you a series of questions to help understand your smoking habits, is that ok?"],
+                "selection_policy": "sequential"
+            }
+        },
+        "parent": null,
+        "context": null,
+        "created": "2017-05-10T19:08:31.756Z",
+        "updated": "2017-05-10T19:09:23.383Z",
+        "metadata": null,
+        "conditions": null,
+        "description": null,
+        "dialog_node": "Understanding Smoking habits",
+        "previous_sibling": "Greeting"
+    }, {
+        "go_to": null,
+        "output": {
+            "text": {
+                "values": ["How long have you been smoking @sys-person"],
+                "selection_policy": "sequential"
+            }
+        },
+        "parent": "node_13_1494443421596",
+        "context": null,
+        "created": "2017-05-10T19:32:33.761Z",
+        "updated": "2017-05-10T19:38:13.367Z",
+        "metadata": null,
+        "conditions": "#Yes",
+        "description": null,
+        "dialog_node": "node_15_1494444753449",
+        "previous_sibling": "node_14_1494444718378"
+    }, {
+        "go_to": null,
+        "output": {
+            "text": {
+                "values": ["I am a chatbot that was created to help educate you about smoking cessation. Feel free to ask me anything about smoking."],
+                "selection_policy": "sequential"
+            }
+        },
+        "parent": null,
+        "context": null,
+        "created": "2017-05-10T14:22:36.988Z",
+        "updated": "2017-05-10T14:23:25.401Z",
+        "metadata": null,
+        "conditions": "#help",
+        "description": null,
+        "dialog_node": "Help",
+        "previous_sibling": "Where do you live"
+    }, {
+        "go_to": null,
+        "output": {
+            "text": {
+                "values": ["I live at 1300 Morris Dr, Chesterbrook, PA 19087."],
+                "selection_policy": "sequential"
+            }
+        },
+        "parent": null,
+        "context": null,
+        "created": "2017-05-10T13:42:31.615Z",
+        "updated": "2017-05-10T13:43:23.765Z",
+        "metadata": null,
+        "conditions": "#whereDoyouLive",
+        "description": null,
+        "dialog_node": "Where do you live",
+        "previous_sibling": "Who are you"
+    }, {
+        "go_to": null,
+        "output": {
+            "text": {
+                "values": ["I'm sorry I don't understand."],
+                "selection_policy": "sequential"
+            }
+        },
+        "parent": null,
+        "context": null,
+        "created": "2017-05-03T19:43:29.412Z",
+        "updated": "2017-05-03T19:44:53.831Z",
+        "metadata": null,
+        "conditions": "anything_else",
+        "description": null,
+        "dialog_node": "node_3_1493840693516",
+        "previous_sibling": "Appearance"
+    }, {
+        "go_to": null,
+        "output": {
+            "text": {
+                "values": ["Nice to meet you @sys-person. I’m with the Good Neighbor Pharmacy. My goal is to help educate you about smoking cessation. Would you like to learn more?"],
+                "selection_policy": "sequential"
+            }
+        },
+        "parent": "Greeting",
+        "context": null,
+        "created": "2017-05-03T19:50:57.603Z",
+        "updated": "2017-05-05T13:16:31.845Z",
+        "metadata": null,
+        "conditions": "@sys-person",
+        "description": null,
+        "dialog_node": "Introduction",
+        "previous_sibling": null
+    }, {
+        "go_to": null,
+        "output": {
+            "text": {
+                "values": ["Thanks for sharing this basic information with me!"],
+                "selection_policy": "sequential"
+            }
+        },
+        "parent": "Age",
+        "context": null,
+        "created": "2017-05-11T15:41:25.930Z",
+        "updated": "2017-05-11T15:42:42.969Z",
+        "metadata": null,
+        "conditions": "@Gender",
+        "description": null,
+        "dialog_node": "Gender",
+        "previous_sibling": null
+    }, {
+        "go_to": null,
+        "output": {
+            "text": {
+                "values": ["That's awesome! Do you know someone who is a smoker and wants to quit?"],
+                "selection_policy": "sequential"
+            }
+        },
+        "parent": "node_13_1494443421596",
+        "context": null,
+        "created": "2017-05-10T19:31:58.866Z",
+        "updated": "2017-05-10T19:33:23.263Z",
+        "metadata": null,
+        "conditions": "#No",
+        "description": null,
+        "dialog_node": "node_14_1494444718378",
+        "previous_sibling": null
+    }, {
+        "go_to": null,
+        "output": {
+            "text": {
+                "values": ["What's their name?"],
+                "selection_policy": "sequential"
+            }
+        },
+        "parent": "node_17_1494444893447",
+        "context": null,
+        "created": "2017-05-10T19:36:49.819Z",
+        "updated": "2017-05-10T19:37:10.422Z",
+        "metadata": null,
+        "conditions": "#Yes",
+        "description": null,
+        "dialog_node": "node_19_1494445009370",
+        "previous_sibling": "node_18_1494444969693"
+    }, {
+        "go_to": null,
+        "output": {
+            "text": {
+                "values": ["Wow you're @sys-number, what about your gender?"],
+                "selection_policy": "sequential"
+            }
+        },
+        "parent": "length smoking",
+        "context": null,
+        "created": "2017-05-11T15:35:01.788Z",
+        "updated": "2017-05-11T15:37:05.138Z",
+        "metadata": null,
+        "conditions": "@sys-number",
+        "description": null,
+        "dialog_node": "Age",
+        "previous_sibling": null
+    }, {
+        "go_to": null,
+        "output": {
+            "text": {
+                "values": ["Yo hablo español. Just kidding I only speak English."],
+                "selection_policy": "sequential"
+            }
+        },
+        "parent": null,
+        "context": null,
+        "created": "2017-05-10T17:33:10.134Z",
+        "updated": "2017-05-10T17:35:07.247Z",
+        "metadata": null,
+        "conditions": "#Language",
+        "description": null,
+        "dialog_node": "Language",
+        "previous_sibling": "Help"
+    }, {
+        "go_to": null,
+        "output": {
+            "text": {
+                "values": ["Hi, there! My name is XXXX what's yours?", "Hello! My name is XXXX what's yours?"],
+                "selection_policy": "random"
+            }
+        },
+        "parent": null,
+        "context": null,
+        "created": "2017-05-03T19:43:22.224Z",
+        "updated": "2017-05-04T18:40:51.907Z",
+        "metadata": null,
+        "conditions": "#Greeting",
+        "description": null,
+        "dialog_node": "Greeting",
+        "previous_sibling": null
+    }, {
+        "go_to": null,
+        "output": {
+            "text": {
+                "values": ["Well, anytime smoking is too long! How old are you?", "Any time spent smoking is too long! What is your age?"],
+                "selection_policy": "sequential"
+            }
+        },
+        "parent": "node_15_1494444753449",
+        "context": null,
+        "created": "2017-05-10T19:51:15.997Z",
+        "updated": "2017-05-11T15:34:57.292Z",
+        "metadata": null,
+        "conditions": "@length",
+        "description": null,
+        "dialog_node": "length smoking",
+        "previous_sibling": null
+    }, {
+        "go_to": null,
+        "output": {
+            "text": {
+                "values": ["It's been nice talking to you. Please feel free to call our hotline for help 24/7 at 1-800-QUIT-NOW (1-800-784-8669)!", "Thanks for chatting with me. Please feel free to read more online www.MyGNP.com/smoking-cessation.", "It was a pleasure chatting. Please feel free to sign up for our free 24/7 quit help text messages by texting QUIT to 47848."],
+                "selection_policy": "sequential"
+            }
+        },
+        "parent": null,
+        "context": null,
+        "created": "2017-05-03T20:08:23.038Z",
+        "updated": "2017-05-08T19:16:14.763Z",
+        "metadata": null,
+        "conditions": "#Goodbye",
+        "description": null,
+        "dialog_node": "End dialog",
+        "previous_sibling": "Reasons to quit"
+    }, {
+        "go_to": null,
+        "output": {
+            "text": {
+                "values": ["I look just like you!", "You will never know!", "I can't tell you that", "I'm not sure I've never looked in a mirror"],
+                "selection_policy": "random"
+            }
+        },
+        "parent": null,
+        "context": null,
+        "created": "2017-05-10T18:43:40.107Z",
+        "updated": "2017-05-10T18:45:06.196Z",
+        "metadata": null,
+        "conditions": "#Appearance",
+        "description": null,
+        "dialog_node": "Appearance",
+        "previous_sibling": "Time"
+    }, {
+        "go_to": {
+            "return": null,
+            "selector": "body",
+            "dialog_node": "End dialog"
+        },
+        "output": {},
+        "parent": "Introduction",
+        "context": null,
+        "created": "2017-05-10T19:03:32.623Z",
+        "updated": "2017-05-10T19:05:40.127Z",
+        "metadata": null,
+        "conditions": "#No",
+        "description": null,
+        "dialog_node": "No",
+        "previous_sibling": null
+    }, {
+        "go_to": {
+            "return": null,
+            "selector": "body",
+            "dialog_node": "End dialog"
+        },
+        "output": {},
+        "parent": "node_14_1494444718378",
+        "context": null,
+        "created": "2017-05-10T19:34:26.347Z",
+        "updated": "2017-05-10T19:34:44.068Z",
+        "metadata": null,
+        "conditions": "#No",
+        "description": null,
+        "dialog_node": "node_16_1494444865914",
+        "previous_sibling": null
+    }, {
+        "go_to": {
+            "return": null,
+            "selector": "body",
+            "dialog_node": "End dialog"
+        },
+        "output": {},
+        "parent": "node_17_1494444893447",
+        "context": null,
+        "created": "2017-05-10T19:36:09.996Z",
+        "updated": "2017-05-10T19:36:27.750Z",
+        "metadata": null,
+        "conditions": "#No",
+        "description": null,
+        "dialog_node": "node_18_1494444969693",
+        "previous_sibling": null
+    }, {
+        "go_to": {
+            "return": null,
+            "selector": "body",
+            "dialog_node": "End dialog"
+        },
+        "output": {},
+        "parent": "Understanding Smoking habits",
+        "context": null,
+        "created": "2017-05-10T19:09:53.666Z",
+        "updated": "2017-05-10T19:10:18.738Z",
+        "metadata": null,
+        "conditions": "#No",
+        "description": null,
+        "dialog_node": "node_12_1494443393247",
+        "previous_sibling": null
+    }, {
+        "go_to": {
+            "return": null,
+            "selector": "body",
+            "dialog_node": "node_15_1494444753449"
+        },
+        "output": {},
+        "parent": "node_19_1494445009370",
+        "context": null,
+        "created": "2017-05-10T19:37:19.258Z",
+        "updated": "2017-05-10T19:38:22.234Z",
+        "metadata": null,
+        "conditions": "@sys-person",
+        "description": null,
+        "dialog_node": "name",
+        "previous_sibling": null
+    }, {
+        "go_to": {
+            "return": null,
+            "selector": "body",
+            "dialog_node": "Understanding Smoking habits"
+        },
+        "output": {},
+        "parent": "Introduction",
+        "context": null,
+        "created": "2017-05-10T19:05:53.454Z",
+        "updated": "2017-05-10T19:09:39.899Z",
+        "metadata": null,
+        "conditions": "#Yes",
+        "description": null,
+        "dialog_node": "Yes",
+        "previous_sibling": "No"
+    }, {
+        "type": "response_condition",
+        "go_to": null,
+        "output": {
+            "text": {
+                "values": ["I'm not a real person, I'm simply a bot. I was created by the myGNP team to help educate people about smoking cessation! You can ask me questions about smoking and I'll answer them the best I can."],
+                "selection_policy": "sequential"
+            }
+        },
+        "parent": "Who are you",
+        "context": null,
+        "created": "2017-05-10T13:30:55.838Z",
+        "updated": "2017-05-10T13:41:10.190Z",
+        "metadata": null,
+        "conditions": " #whoAreYou",
+        "description": null,
+        "dialog_node": "node_2_1494423055081",
+        "previous_sibling": null
+    }, {
+        "type": "response_condition",
+        "go_to": null,
+        "output": {
+            "text": {
+                "values": ["Your chances of having cancer, heart attacks, heart disease, stroke, cataracts, and other diseases will go down"],
+                "selection_policy": "sequential"
+            }
+        },
+        "parent": "Health and appearance",
+        "context": null,
+        "created": "2017-05-12T19:04:20.132Z",
+        "updated": "2017-05-12T19:11:27.507Z",
+        "metadata": null,
+        "conditions": " ",
+        "description": null,
+        "dialog_node": "node_8_1494615860021",
+        "previous_sibling": null
+    }, {
+        "type": "response_condition",
+        "go_to": null,
+        "output": {
+            "text": {
+                "values": ["According to my watch it is @sys-time", "According to my clock it is @sys-time", "hmm, it's @sys-time"],
+                "selection_policy": "random"
+            }
+        },
+        "parent": "Time",
+        "context": null,
+        "created": "2017-05-10T18:34:33.203Z",
+        "updated": "2017-05-10T18:34:40.083Z",
+        "metadata": null,
+        "conditions": "",
+        "description": null,
+        "dialog_node": "node_7_1494441272737",
+        "previous_sibling": null
+    }],
+    "workspace_id": "3c7c76f1-4f32-4e9f-98c9-0963bcdc3884",
+    "counterexamples": []
+}

@@ -2,13 +2,15 @@ var watson = require('watson-developer-cloud');
 var cfenv = require('cfenv');
 var chrono = require('chrono-node');
 
+var config = require('./config/credentials.json');
+
 // =====================================
 // CREATE THE SERVICE WRAPPER ==========
 // =====================================
 // Create the service wrapper
-var conversationUsername = "9fd01219-f8f0-4ae5-bf27-7684d6d73fdf";
-var conversationPassword = "WNPKrBNDbfPl";
-var conversationWorkspace = "9e4c5fbf-8668-4434-a280-c276df237e02";
+var conversationUsername = config.conversation.credentials.username;
+var conversationPassword = config.conversation.credentials.password;
+var conversationWorkspace = "aea269b0-9994-4cba-a41a-d529f64a710f";
 
 console.log("Using Watson Conversation with username", conversationUsername, "and workspace", conversationWorkspace);
 

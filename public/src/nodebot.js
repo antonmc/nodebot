@@ -1,7 +1,13 @@
 var params = {}; // Object for parameters sent to the Watson Conversation service
 var context;
 
+function initialize() {}
+
 function resize(event) {}
+
+function handleFocus(event) {
+    console.log('focus');
+}
 
 /**
  * @summary Enter Keyboard Event.
