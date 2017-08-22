@@ -10,7 +10,7 @@ var config = require('./config/credentials.json');
 // Create the service wrapper
 var conversationUsername = config.conversation.credentials.username;
 var conversationPassword = config.conversation.credentials.password;
-var conversationWorkspace = "aea269b0-9994-4cba-a41a-d529f64a710f";
+var conversationWorkspace = "745a0a4c-716a-4093-9046-da6fef7fe5da";
 
 console.log("Using Watson Conversation with username", conversationUsername, "and workspace", conversationWorkspace);
 

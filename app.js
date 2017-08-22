@@ -26,26 +26,39 @@ var body = '';
 
 var chatbot = require('./bot.js');
 
+app.post('/outpost', function(req, res) {
 
-app.post('/outpost', function (req, res) {
+  res.setHeader('Content-Type', 'application/json');
 
-    res.setHeader('Content-Type', 'application/json');
+  console.log('dorinha heard a question ... ');
 
-    console.log('called outpost');
+  chatbot.sendMessage(req.body.text, req.body.context, function(response) {
 
-    chatbot.sendMessage(req.body.text, req.body.context, function (response) {
+    // console.log(response);
 
-        switch (response.intents[0].intent) {
-            default: console.log('case statement - default - ' + response.intents[0].intent);
-            break;
-        }
+    if (response.entities.length > 0) {
 
-        res.send(JSON.stringify(response, null, 3));
-    });
+      if (response.entities[0].entity === 'druglist') {
+        console.log('here is where to search for the drugs');
+      }
+
+    }
+
+    // switch (response.intents[0].intent) {
+    //     default: console.log('case statement - default - ' + response.intents[0].intent);
+    //     break;
+    // }
+
+    // if( response.entities[0] !== null && response.entities[0].entity === 'druglist'){
+    //   console.log('here is where to search for the drugs');
+    // }
+
+    res.send(JSON.stringify(response, null, 3));
+  });
 });
 
 // start server on the specified port and binding host
-app.listen(appEnv.port, '0.0.0.0', function () {
-    // print a message when the server starts listening
-    console.log("server starting on " + appEnv.url);
+app.listen(appEnv.port, '0.0.0.0', function() {
+  // print a message when the server starts listening
+  console.log("server starting on " + appEnv.url);
 });

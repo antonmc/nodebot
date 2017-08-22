@@ -3,6 +3,6 @@ applications:
   memory: 256M
   instances: 1
   domain: mybluemix.net
-  name: nodebot
-  host: nodebot
+  name: andorinha 
+  host: andorinha
   disk_quota: 1024M

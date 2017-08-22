@@ -1,0 +1,1315 @@
+[{
+  "id": "206",
+  "label": "ACICLOVIR 200 MG COMP",
+  "mensagem": "",
+  "cadastro": false,
+  "nome_publico": "ACICLOVIR 200 MICROGRAMAS - COMPRIMIDOS"
+}, {
+  "id": "100",
+  "label": "ACIDO ACETILSALICILICO 100 MG COMP",
+  "mensagem": "",
+  "cadastro": false,
+  "nome_publico": "ÁCIDO ACETILSALICÍLICO 100 MICROGRAMAS - COMPRIMIDOS"
+}, {
+  "id": "1",
+  "label": "ACIDO ACETILSALICILICO 500 MG COMP",
+  "mensagem": "",
+  "cadastro": false,
+  "nome_publico": "ÁCIDO ACETILSALICÍLICO 500 MICROGRAMAS - COMPRIMIDOS"
+}, {
+  "id": "249",
+  "label": "ACIDO FOLICO 5 MG COMP",
+  "mensagem": "",
+  "cadastro": false,
+  "nome_publico": "ÁCIDO FÓLICO 5 MICROGRAMAS - COMPRIMIDOS"
+}, {
+  "id": "336",
+  "label": "ACIDO FOLINICO 15 MG CP",
+  "mensagem": "",
+  "cadastro": false,
+  "nome_publico": "ÁCIDO FOLÍNICO 15 MICROGRAMAS - COMPRIMIDOS"
+}, {
+  "id": "135",
+  "label": "ACIDO METACRESOL SULFONICO (ALBOCRESIL) 26% FR C/12ML",
+  "mensagem": "",
+  "cadastro": false,
+  "nome_publico": "ÁCIDO METACRESOLSULFÔNICO (ALBOCRESIL) 26% - FRASCO COM 12 MILILITROS"
+}, {
+  "id": "106",
+  "label": "ACIDO VALPROICO 250MG/5ML SOL ORAL - 100 ML",
+  "mensagem": "",
+  "cadastro": false,
+  "nome_publico": "ÁCIDO VALPRÓICO 250 MICROGRAMAS POR 5 MILILITROS - SOLUÇÃO ORAL COM 100 MILILITROS"
+}, {
+  "id": "94",
+  "label": "ACIDO VALPRÓICO 250MG COMP",
+  "mensagem": "",
+  "cadastro": false,
+  "nome_publico": "ÁCIDO VALPRÓICO 250 MICROGRAMAS - COMPRIMIDOS"
+}, {
+  "id": "189",
+  "label": "ACIDO VALPRÓICO 500MG COMP",
+  "mensagem": "",
+  "cadastro": false,
+  "nome_publico": "ÁCIDO VALPRÓICO 500 MICROGRAMAS - COMPRIMIDOS"
+}, {
+  "id": "226",
+  "label": "ADESIVO TRANSDERMICO DE NICOTINA 14 MG ",
+  "mensagem": "Disponível Mediante Cadastro. Para solicitar, entre em contato com o Centro de Saúde.",
+  "cadastro": true,
+  "nome_publico": "ADESIVO TRANSDÉRMICO DE NICOTINA 14 MICROGRAMAS"
+}, {
+  "id": "276",
+  "label": "ADESIVO TRANSDERMICO DE NICOTINA 21 MG ",
+  "mensagem": "Disponível Mediante Cadastro. Para solicitar, entre em contato com o Centro de Saúde.",
+  "cadastro": true,
+  "nome_publico": "ADESIVO TRANSDÉRMICO DE NICOTINA 21 MICROGRAMAS"
+}, {
+  "id": "246",
+  "label": "ADESIVO TRANSDERMICO DE NICOTINA 7 MG ",
+  "mensagem": "Disponível Mediante Cadastro. Para solicitar, entre em contato com o Centro de Saúde.",
+  "cadastro": true,
+  "nome_publico": "ADESIVO TRANSDÉRMICO DE NICOTINA 7 MICROGRAMAS"
+}, {
+  "id": "1052",
+  "label": "ALBENDAZOL 40 MG/ML SOL ORAL 10 ML",
+  "mensagem": "",
+  "cadastro": false,
+  "nome_publico": "ALBENDAZOL 40 MICROGRAMAS POR MILILITRO - SOLUÇÃO ORAL COM 10 MILILITROS"
+}, {
+  "id": "1053",
+  "label": "ALBENDAZOL 400 MG - CPS MASTIGÁVEIS",
+  "mensagem": "",
+  "cadastro": false,
+  "nome_publico": "ALBENDAZOL 400 MICROGRAMAS - CÁPSULAS MASTIGÁVEIS"
+}, {
+  "id": "1303",
+  "label": "ALENDRONATO DE SÓDIO 10 MG. CPR/CPS/DG",
+  "mensagem": "",
+  "cadastro": false,
+  "nome_publico": "ALENDRONATO DE SÓDIO 10 MICROGRAMAS - COMPRIMIDOS, DRÁGEAS OU CÁPSULAS"
+}, {
+  "id": "1285",
+  "label": "ALENDRONATO DE SÓDIO 70 MG - COMPRIMIDO",
+  "mensagem": "",
+  "cadastro": false,
+  "nome_publico": "ALENDRONATO DE SÓDIO 70 MICROGRAMAS - COMPRIMIDOS"
+}, {
+  "id": "269",
+  "label": "ALOPURINOL 100 MG COMP",
+  "mensagem": "",
+  "cadastro": false,
+  "nome_publico": "ALOPURINOL 100 MICROGRAMAS - COMPRIMIDOS"
+}, {
+  "id": "3",
+  "label": "AMIODARONA 200 MG COMP",
+  "mensagem": "",
+  "cadastro": false,
+  "nome_publico": "AMIODARONA 200 MICROGRAMAS - COMPRIMIDOS"
+}, {
+  "id": "240",
+  "label": "AMITRIPTILINA 25 MG COMP",
+  "mensagem": "",
+  "cadastro": false,
+  "nome_publico": "AMITRIPTILINA 25 MICROGRAMAS - COMPRIMIDOS"
+}, {
+  "id": "1256",
+  "label": "AMOXICILINA  250MG/5ML CLAVULANATO DE POTASSIO  SUSP ORAL",
+  "mensagem": "",
+  "cadastro": false,
+  "nome_publico": "AMOXICILINA 250 MICROGRAMAS POR 5 MILILITROS + CLAVULANATO DE POTÁSSIO - SUSPENSÃO ORAL"
+}, {
+  "id": "77",
+  "label": "AMOXICILINA 250MG/5ML SUSP ORAL",
+  "mensagem": "",
+  "cadastro": false,
+  "nome_publico": "AMOXICILINA 250 MICROGRAMAS POR 5 MILILITROS - SUSPENSÃO ORAL"
+}, {
+  "id": "30",
+  "label": "AMOXICILINA 500 MG COMP",
+  "mensagem": "",
+  "cadastro": false,
+  "nome_publico": "AMOXICILINA 500 MICROGRAMAS - COMPRIMIDOS"
+}, {
+  "id": "1269",
+  "label": "AMOXICILINA 500MG + CLAVULANATO DE POTÁSSIO 125MG CPR",
+  "mensagem": "",
+  "cadastro": false,
+  "nome_publico": "AMOXICILINA 500 MICROGRAMAS + CLAVULANATO DE POTÁSSIO 125 MICROGRAMAS - COMPRIMIDOS"
+}, {
+  "id": "1125",
+  "label": "ANLODIPINO 5 MG CPR",
+  "mensagem": "",
+  "cadastro": false,
+  "nome_publico": "ANLODIPINO 5 MICROGRAMAS - COMPRIMIDOS"
+}, {
+  "id": "1280",
+  "label": "ATENOLOL 50MG COMP",
+  "mensagem": "",
+  "cadastro": false,
+  "nome_publico": "ATENOLOL 50 MICROGRAMAS - COMPRIMIDOS"
+}, {
+  "id": "193",
+  "label": "AZITROMICINA 500 MG COMP",
+  "mensagem": "",
+  "cadastro": false,
+  "nome_publico": "AZITROMICINA 500 MICROGRAMAS - COMPRIMIDOS"
+}, {
+  "id": "1324",
+  "label": "AZITROMICINA 900 MG PO PARA SUSP ORAL",
+  "mensagem": "",
+  "cadastro": false,
+  "nome_publico": "AZITROMICINA 900 MICROGRAMAS - PÓ PARA SUSPENSÃO ORAL"
+}, {
+  "id": "1046",
+  "label": "BECLOMETASONA 200 MCG CAPSULA C/ PÓ P/ INALAÇÃO + INALADOR",
+  "mensagem": "",
+  "cadastro": false,
+  "nome_publico": "BECLOMETASONA 200 MICROGRAMAS - CÁPSULA COM PÓ PARA INALAÇÃO + INALADOR"
+}, {
+  "id": "1373",
+  "label": "BECLOMETASONA 250 MCG ORAL (FRASCO COM 200 DOSES)",
+  "mensagem": "",
+  "cadastro": false,
+  "nome_publico": "BECLOMETASONA 250 MICROGRAMAS ORAL - FRASCO COM 200 DOSES"
+}, {
+  "id": "1047",
+  "label": "BECLOMETASONA 400 MCG CAPSULA C/ PÓ P/ INALAÇÃO + INALADOR",
+  "mensagem": "",
+  "cadastro": false,
+  "nome_publico": "BECLOMETASONA 400 MICROGRAMAS - CÁPSULA COM PÓ PARA INALAÇÃO + INALADOR"
+}, {
+  "id": "1116",
+  "label": "BECLOMETASONA 50 MCG NASAL",
+  "mensagem": "",
+  "cadastro": false,
+  "nome_publico": "BECLOMETASONA 50 MICROGRAMAS - NASAL"
+}, {
+  "id": "1036",
+  "label": "BECLOMETASONA 50 MCG SPRAY ORAL 200 DOSES",
+  "mensagem": "",
+  "cadastro": false,
+  "nome_publico": "BECLOMETASONA 50 MICROGRAMAS - SPRAY ORAL COM 200 DOSES"
+}, {
+  "id": "179",
+  "label": "BIPERIDENO 2 MG COMP",
+  "mensagem": "",
+  "cadastro": false,
+  "nome_publico": "BIPERIDENO 2 MICROGRAMAS - COMPRIMIDOS"
+}, {
+  "id": "1198",
+  "label": "BUDESONIDA 50 MCG AQUOSO NASAL FRASCO COM 120 DOSES",
+  "mensagem": "",
+  "cadastro": false,
+  "nome_publico": "BUDESONIDA 50 MICROGRAMAS AQUOSO NASAL - FRASCO COM 120 DOSES"
+}, {
+  "id": "1308",
+  "label": "BUPROPIONA 150 MG",
+  "mensagem": "Disponível Mediante Cadastro. Para solicitar, entre em contato com o Centro de Saúde.",
+  "cadastro": true,
+  "nome_publico": "BUPROPIONA 150 MICROGRAMAS"
+}, {
+  "id": "99",
+  "label": "CAPTOPRIL 25 MG COMP",
+  "mensagem": "",
+  "cadastro": false,
+  "nome_publico": "CAPTOPRIL 25 MICROGRAMAS - COMPRIMIDOS"
+}, {
+  "id": "61",
+  "label": "CARBAMAZEPINA 2% SOL ORAL",
+  "mensagem": "",
+  "cadastro": false,
+  "nome_publico": "CARBAMAZEPINA 2% - SOLUÇÃO ORAL"
+}, {
+  "id": "15",
+  "label": "CARBAMAZEPINA 200 MG COMP",
+  "mensagem": "",
+  "cadastro": false,
+  "nome_publico": "CARBAMAZEPINA 200 MICROGRAMAS - COMPRIMIDOS"
+}, {
+  "id": "1286",
+  "label": "CARBONATO DE  CALCIO 1250MG EQUIVALENTE A 500 MG DE CA++",
+  "mensagem": "",
+  "cadastro": false,
+  "nome_publico": "CARBONATO DE CÁLCIO 1250 MICROGRAMAS - EQUIVALENTE A 500 MICROGRAMAS DE CÁLCIO"
+}, {
+  "id": "2141",
+  "label": "CARBONATO DE CALCIO 500 MG + VIT D 400 UI (CPR,CAPS, DRAG)",
+  "mensagem": "",
+  "cadastro": false,
+  "nome_publico": "CARBONATO DE CÁLCIO 500 MICROGRAMAS + VITAMINA D 400 UI - COMPRIMIDOS, DRÁGEAS OU CÁPSULAS"
+}, {
+  "id": "207",
+  "label": "CARBONATO LITIO 300 MG COMP",
+  "mensagem": "",
+  "cadastro": false,
+  "nome_publico": "CARBONATO DE LÍTIO 300 MICROGRAMAS - COMPRIMIDOS"
+}, {
+  "id": "1220",
+  "label": "CARVEDILOL 25 MG - CX C/ 30 CPR (CARDILOL)",
+  "mensagem": "",
+  "cadastro": false,
+  "nome_publico": "CARVEDILOL 25 MICROGRAMAS - CAIXA COM 30 COMPRIMIDOS"
+}, {
+  "id": "1202",
+  "label": "CARVEDILOL 6,25MG",
+  "mensagem": "",
+  "cadastro": false,
+  "nome_publico": "CARVEDILOL 6,25 MICROGRAMAS"
+}, {
+  "id": "55",
+  "label": "CEFALEXINA 500 MG COMP",
+  "mensagem": "",
+  "cadastro": false,
+  "nome_publico": "CEFALEXINA 500 MICROGRAMAS - COMPRIMIDOS"
+}, {
+  "id": "56",
+  "label": "CEFALEXINA SOL ORAL 250 MG/5ML",
+  "mensagem": "",
+  "cadastro": false,
+  "nome_publico": "CEFALEXINA 250 MICROGRAMAS POR 5 MILILITROS - SOLUÇÃO ORAL"
+}, {
+  "id": "283",
+  "label": "CETOCONAZOL 20 MG/G SHAMPOO",
+  "mensagem": "Disponível Mediante Cadastro. Para solicitar, entre em contato com o Centro de Saúde.",
+  "cadastro": true,
+  "nome_publico": "CETOCONAZOL 20 MICROGRAMAS G - SHAMPOO"
+}, {
+  "id": "277",
+  "label": "CIPROFLOXACINA 500 MG COMP",
+  "mensagem": "",
+  "cadastro": false,
+  "nome_publico": "CIPROFLOXACINA 500 MICROGRAMAS - COMPRIMIDOS"
+}, {
+  "id": "176",
+  "label": "CLARITROMICINA 500MG COMP",
+  "mensagem": "",
+  "cadastro": false,
+  "nome_publico": "CLARITROMICINA 500 MICROGRAMAS - COMPRIMIDOS"
+}, {
+  "id": "334",
+  "label": "CLINDAMICINA 300 MG COMP",
+  "mensagem": "",
+  "cadastro": false,
+  "nome_publico": "CLINDAMICINA 300 MICROGRAMAS - COMPRIMIDOS"
+}, {
+  "id": "69",
+  "label": "CLOMIPRAMINA 25 MG COMP",
+  "mensagem": "",
+  "cadastro": false,
+  "nome_publico": "CLOMIPRAMINA 25 MICROGRAMAS - COMPRIMIDOS"
+}, {
+  "id": "275",
+  "label": "CLONAZEPAN 2,5 MG/ML SOL ORAL - 20 ML",
+  "mensagem": "",
+  "cadastro": false,
+  "nome_publico": "CLONAZEPAM 2,5 MICROGRAMAS POR MILILITRO - SOLUÇÃO ORAL - 20 MILILITROS"
+}, {
+  "id": "150",
+  "label": "CLONAZEPAN 2MG COMP",
+  "mensagem": "",
+  "cadastro": false,
+  "nome_publico": "CLONAZEPAN 2 MICROGRAMAS - COMPRIMIDOS"
+}, {
+  "id": "1225",
+  "label": "CLOPIDOGREL 75 MG, APRESENTADO EM CAIXAS COM 14 A 28 COMPRIM",
+  "mensagem": "Disponível Mediante Cadastro. Para solicitar, entre em contato com o Centro de Saúde.",
+  "cadastro": true,
+  "nome_publico": "CLOPIDOGREL 75 MICROGRAMAS - CAIXA COM 14 OU 28 COMPRIMIDOS"
+}, {
+  "id": "1232",
+  "label": "CLORETO DE SÓDIO 0,9% 250 ML SISTEMA FECHADO",
+  "mensagem": "",
+  "cadastro": false,
+  "nome_publico": "CLORETO DE SÓDIO 0,9% 250 MILILITROS - SISTEMA FECHADO"
+}, {
+  "id": "1237",
+  "label": "CLORETO DE SÓDIO 0,9% 500 ML SISTEMA FECHADO",
+  "mensagem": "",
+  "cadastro": false,
+  "nome_publico": "CLORETO DE SÓDIO 0,9% 500 MILILITROS - SISTEMA FECHADO"
+}, {
+  "id": "237",
+  "label": "CLORETO POTASSIO 6% EDULITO SOL ORAL (S/AÇÚCAR)",
+  "mensagem": "",
+  "cadastro": false,
+  "nome_publico": "CLORETO DE POTÁSSIO 6% EDULITO - SOLUÇÃO ORAL SEM AÇÚCAR"
+}, {
+  "id": "1200",
+  "label": "CLORIDRATO DE TRAMADOL 50 MG CPR",
+  "mensagem": "Disponível Mediante Cadastro. Para solicitar, entre em contato com o Centro de Saúde.",
+  "cadastro": true,
+  "nome_publico": "CLORIDRATO DE TRAMADOL 50 MICROGRAMAS - COMPRIMIDOS"
+}, {
+  "id": "1197",
+  "label": "CLOROQUINA 150 MG COMP",
+  "mensagem": "",
+  "cadastro": false,
+  "nome_publico": "CLOROQUINA 150 MICROGRAMAS - COMPRIMIDOS"
+}, {
+  "id": "16",
+  "label": "CLORPROMAZINA 100 MG COMP",
+  "mensagem": "",
+  "cadastro": false,
+  "nome_publico": "CLORPROMAZINA 100 MICROGRAMAS - COMPRIMIDOS"
+}, {
+  "id": "247",
+  "label": "CLORPROMAZINA 25 MG COMP",
+  "mensagem": "",
+  "cadastro": false,
+  "nome_publico": "CLORPROMAZINA 25 MICROGRAMAS - COMPRIMIDOS"
+}, {
+  "id": "45",
+  "label": "CLORPROMAZINA 4% SOL ORAL",
+  "mensagem": "",
+  "cadastro": false,
+  "nome_publico": "CLORPROMAZINA 4% - SOLUÇÃO ORAL"
+}, {
+  "id": "281",
+  "label": "CREME DE UREIA BISNAGA/POTE C/50 A 60 GR  (DRS VII)",
+  "mensagem": "Disponível Mediante Cadastro. Para solicitar, entre em contato com o Centro de Saúde.",
+  "cadastro": true,
+  "nome_publico": "CREME DE URÉIA - BISNAGA OU POTE COM 50 A 60 GRAMAS"
+}, {
+  "id": "197",
+  "label": "DAPSONA 100 MG COMP (DRS VII)",
+  "mensagem": "Disponível Mediante Cadastro. Para solicitar, entre em contato com o Centro de Saúde.",
+  "cadastro": true,
+  "nome_publico": "DAPSONA 100 MICROGRAMAS - COMPRIMIDOS"
+}, {
+  "id": "154",
+  "label": "DEXAMETASONA 0,1% CREME",
+  "mensagem": "",
+  "cadastro": false,
+  "nome_publico": "DEXAMETASONA 0,1% - CREME"
+}, {
+  "id": "1196",
+  "label": "DEXAMETASONA 4 MG",
+  "mensagem": "",
+  "cadastro": false,
+  "nome_publico": "DEXAMETASONA 4 MICROGRAMAS"
+}, {
+  "id": "344",
+  "label": "DEXCLORFENIRAMINA  2 MG COMP",
+  "mensagem": "",
+  "cadastro": false,
+  "nome_publico": "DEXCLORFENIRAMINA 2 MICROGRAMAS - COMPRIMIDOS"
+}, {
+  "id": "47",
+  "label": "DEXCLORFENIRAMINA 0,04% SOL ORAL",
+  "mensagem": "",
+  "cadastro": false,
+  "nome_publico": "DEXCLORFENIRAMINA 0,04% - SOLUÇÃO ORAL"
+}, {
+  "id": "1340",
+  "label": "DIAZEPAN 5 MG (CPR,CAPS,DRAG)",
+  "mensagem": "",
+  "cadastro": false,
+  "nome_publico": "DIAZEPAM 5 MICROGRAMAS - COMPRIMIDOS, DRÁGEAS OU CÁPSULAS"
+}, {
+  "id": "81",
+  "label": "DICLOFENACO SODICO 50 MG COMP",
+  "mensagem": "",
+  "cadastro": false,
+  "nome_publico": "DICLOFENACO SÓDICO 50 MICROGRAMAS - COMPRIMIDOS"
+}, {
+  "id": "6",
+  "label": "DIGOXINA 0,25 MG COMP",
+  "mensagem": "",
+  "cadastro": false,
+  "nome_publico": "DIGOXINA 0,25 MICROGRAMAS - COMPRIMIDOS"
+}, {
+  "id": "108",
+  "label": "DIGOXINA SOL ORAL 0,05MG/ML",
+  "mensagem": "Disponível Mediante Cadastro. Para solicitar, entre em contato com o Centro de Saúde.",
+  "cadastro": true,
+  "nome_publico": "DIGOXINA 0,05 MICROGRAMAS POR MILILITRO - SOLUÇÃO ORAL"
+}, {
+  "id": "1136",
+  "label": "DILTIAZEN 60 MG",
+  "mensagem": "",
+  "cadastro": false,
+  "nome_publico": "DILTIAZEM 60 MICROGRAMAS"
+}, {
+  "id": "1194",
+  "label": "DIMETICONA 75 MG/ML - SOLUÇÃO ORAL",
+  "mensagem": "Disponível Mediante Cadastro. Para solicitar, entre em contato com o Centro de Saúde.",
+  "cadastro": true,
+  "nome_publico": "DIMETICONA 75 MICROGRAMAS POR MILILITRO - SOLUÇÃO ORAL"
+}, {
+  "id": "20",
+  "label": "DIPIRONA 500 MG COMP",
+  "mensagem": "",
+  "cadastro": false,
+  "nome_publico": "DIPIRONA 500 MICROGRAMAS - COMPRIMIDOS"
+}, {
+  "id": "104",
+  "label": "DIPIRONA 500 MG/ML SOL ORAL (GOTAS)",
+  "mensagem": "",
+  "cadastro": false,
+  "nome_publico": "DIPIRONA 500 MICROGRAMAS POR MILILITRO - SOLUÇÃO ORAL GOTAS"
+}, {
+  "id": "1294",
+  "label": "ENALAPRIL 10 MG CPR",
+  "mensagem": "",
+  "cadastro": false,
+  "nome_publico": "ENALAPRIL 10 MICROGRAMAS - COMPRIMIDOS"
+}, {
+  "id": "1257",
+  "label": "ENALAPRIL 20 MG",
+  "mensagem": "",
+  "cadastro": false,
+  "nome_publico": "ENALAPRIL 20 MICROGRAMAS"
+}, {
+  "id": "296",
+  "label": "ENANT.NORETISTERONA+VAL.ESTRADIOL 50/5 MG SI",
+  "mensagem": "",
+  "cadastro": false,
+  "nome_publico": "ENANTATO DE NORETISTERONA + VALERATO DE ESTRADIOL 50 POR 5 MICROGRAMAS"
+}, {
+  "id": "1261",
+  "label": "ERITROMICINA (ESTESRATO) 500 MG, COMPRIMIDO,",
+  "mensagem": "",
+  "cadastro": false,
+  "nome_publico": "ERITROMICINA (ESTEARATO) 500 MICROGRAMAS - COMPRIMIDOS"
+}, {
+  "id": "53",
+  "label": "ERITROMICINA 250 MG/5ML USO ORAL - FR 50 A 100 ML",
+  "mensagem": "",
+  "cadastro": false,
+  "nome_publico": "ERITROMICINA 250 MICROGRAMAS POR 5 MILILITROS USO ORAL - FRASCO 50 A 100 MILILITROS"
+}, {
+  "id": "1176",
+  "label": "ESPIRONOLACTONA 100 MG - COMPRIMIDO",
+  "mensagem": "",
+  "cadastro": false,
+  "nome_publico": "ESPIRONOLACTONA 100 MICROGRAMAS - COMPRIMIDOS"
+}, {
+  "id": "1056",
+  "label": "ESPIRONOLACTONA 25 MG CPR (ALDACTONE)",
+  "mensagem": "",
+  "cadastro": false,
+  "nome_publico": "ESPIRONOLACTONA (ALDACTONE) 25 MICROGRAMAS - COMPRIMIDOS"
+}, {
+  "id": "1344",
+  "label": "ESTROGENIOS CONJUGADOS 0,3 MG (CPR, CAPS,DRAG)",
+  "mensagem": "",
+  "cadastro": false,
+  "nome_publico": "ESTROGÊNIOS CONJUGADOS 0,3 MICROGRAMAS - COMPRIMIDOS, DRÁGEAS OU CÁPSULAS"
+}, {
+  "id": "157",
+  "label": "ESTROGENOS CONJUGADOS 0,625 MG CREME VAGINAL",
+  "mensagem": "",
+  "cadastro": false,
+  "nome_publico": "ESTRÓGENOS CONJUGADOS 0,625 MICROGRAMAS - CREME VAGINAL"
+}, {
+  "id": "73",
+  "label": "ETAMBUTOL 400 MG COMP (DRS VII)",
+  "mensagem": "Disponível Mediante Cadastro. Para solicitar, entre em contato com o Centro de Saúde.",
+  "cadastro": true,
+  "nome_publico": "ETAMBUTOL 400 MICROGRAMAS - COMPRIMIDOS"
+}, {
+  "id": "164",
+  "label": "ETIONAMIDA 250 MG COMP (DRS VII)",
+  "mensagem": "Disponível Mediante Cadastro. Para solicitar, entre em contato com o Centro de Saúde.",
+  "cadastro": true,
+  "nome_publico": "ETIONAMIDA 250 MICROGRAMAS - COMPRIMIDOS"
+}, {
+  "id": "7",
+  "label": "FENITOINA 100 MG COMP",
+  "mensagem": "",
+  "cadastro": false,
+  "nome_publico": "FENITOÍNA 100 MICROGRAMAS - COMPRIMIDOS"
+}, {
+  "id": "271",
+  "label": "FENOBARBITAL 100 MG COMP",
+  "mensagem": "",
+  "cadastro": false,
+  "nome_publico": "FENOBARBITAL 100 MICROGRAMAS - COMPRIMIDOS"
+}, {
+  "id": "38",
+  "label": "FENOBARBITAL 4% SOL ORAL",
+  "mensagem": "",
+  "cadastro": false,
+  "nome_publico": "FENOBARBITAL 4% - SOLUÇÃO ORAL"
+}, {
+  "id": "243",
+  "label": "FLUCONAZOL 100 MG COMP",
+  "mensagem": "",
+  "cadastro": false,
+  "nome_publico": "FLUCONAZOL 100 MICROGRAMAS - COMPRIMIDOS"
+}, {
+  "id": "280",
+  "label": "FLUCONAZOL 150 MG COMP",
+  "mensagem": "",
+  "cadastro": false,
+  "nome_publico": "FLUCONAZOL 150 MICROGRAMAS - COMPRIMIDOS"
+}, {
+  "id": "293",
+  "label": "FLUOXETINA 20 MG COMP",
+  "mensagem": "",
+  "cadastro": false,
+  "nome_publico": "FLUOXETINA 20 MICROGRAMAS - COMPRIMIDOS"
+}, {
+  "id": "272",
+  "label": "FUROSEMIDA 40 MG COMP",
+  "mensagem": "",
+  "cadastro": false,
+  "nome_publico": "FUROSEMIDA 40 MICROGRAMAS - COMPRIMIDOS"
+}, {
+  "id": "309",
+  "label": "GENTAMICINA 80MG - SOLUÇÃO INJETAVEL",
+  "mensagem": "Disponível Mediante Cadastro. Para solicitar, entre em contato com o Centro de Saúde.",
+  "cadastro": true,
+  "nome_publico": "GENTAMICINA 80 MICROGRAMAS - SOLUÇÃO INJETÁVEL"
+}, {
+  "id": "350",
+  "label": "GLIBENCLAMIDA 5 MG COMP",
+  "mensagem": "",
+  "cadastro": false,
+  "nome_publico": "GLIBENCLAMIDA 5 MICROGRAMAS - COMPRIMIDOS"
+}, {
+  "id": "1350",
+  "label": "GLICAZIDA 30MG COMPRIMIDO AÇÃO PROLONGADA",
+  "mensagem": "",
+  "cadastro": false,
+  "nome_publico": "GLICLAZIDA 30 MICROGRAMAS - COMPRIMIDOS DE AÇÃO PROLONGADA"
+}, {
+  "id": "234",
+  "label": "GOMA DE MASCAR DE NICOTINA 2 MG",
+  "mensagem": "Disponível Mediante Cadastro. Para solicitar, entre em contato com o Centro de Saúde.",
+  "cadastro": true,
+  "nome_publico": "GOMA DE MASCAR DE NICOTINA 2 MICROGRAMAS"
+}, {
+  "id": "304",
+  "label": "HALOPERIDOL 0,2% SOL ORAL (FR 20 ML.)",
+  "mensagem": "",
+  "cadastro": false,
+  "nome_publico": "HALOPERIDOL 0,2% - SOLUÇÃO ORAL - FRASCO COM 20 MILILITROS"
+}, {
+  "id": "8",
+  "label": "HALOPERIDOL 1 MG COMP",
+  "mensagem": "",
+  "cadastro": false,
+  "nome_publico": "HALOPERIDOL 1 MICROGRAMA - COMPRIMIDOS"
+}, {
+  "id": "26",
+  "label": "HALOPERIDOL 5 MG COMP",
+  "mensagem": "",
+  "cadastro": false,
+  "nome_publico": "HALOPERIDOL 5 MICROGRAMAS - COMPRIMIDOS"
+}, {
+  "id": "82",
+  "label": "HALOPERIDOL DECANOATO 50 MG/ML SOL INJ AMP 1 ML",
+  "mensagem": "",
+  "cadastro": false,
+  "nome_publico": "HALOPERIDOL DECANOATO 50 MICROGRAMAS POR MILILITRO - SOLUÇÃO INJETÁVEL - AMPOLA 1 MILILITRO"
+}, {
+  "id": "268",
+  "label": "HEPARINA SODICA AMP 5.000UI/0,25 ML SUBCUTANEA- PRE NATAL",
+  "mensagem": "Disponível Mediante Cadastro. Para solicitar, entre em contato com o Centro de Saúde.",
+  "cadastro": true,
+  "nome_publico": "HEPARINA SÓDICA - AMPOLA 5.000 UI POR 0,25 MILILITROS - SUBCUTÂNEA PRÉ NATAL"
+}, {
+  "id": "101",
+  "label": "HIDROCLOROTIAZIDA 25MG COMP",
+  "mensagem": "",
+  "cadastro": false,
+  "nome_publico": "HIDROCLOROTIAZIDA 25 MICROGRAMAS - COMPRIMIDOS"
+}, {
+  "id": "1378",
+  "label": "HIDRÓXIDO DE ALUMÍNIO + HIDRÓXIDO DE MAGNÉSIO SUSP ORAL",
+  "mensagem": "",
+  "cadastro": false,
+  "nome_publico": "HIDRÓXIDO DE ALUMÍNIO + HIDRÓXIDO DE MAGNÉSIO - SUSPENSÃO ORAL"
+}, {
+  "id": "250",
+  "label": "HIOSCINA 10 MG COMP",
+  "mensagem": "",
+  "cadastro": false,
+  "nome_publico": "HIOSCINA 10 MICROGRAMAS - COMPRIMIDOS"
+}, {
+  "id": "1346",
+  "label": "IBUPROFENO 300 MG (CPR, CAPS, DRAG)",
+  "mensagem": "",
+  "cadastro": false,
+  "nome_publico": "IBUPROFENO 300 MICROGRAMAS - COMPRIMIDOS, DRÁGEAS OU CÁPSULAS"
+}, {
+  "id": "1368",
+  "label": "IBUPROFENO 50 MG/ML - SOL ORAL ( P.S. )",
+  "mensagem": "",
+  "cadastro": false,
+  "nome_publico": "IBUPROFENO 50 MICROGRAMAS POR MILILITRO - SOLUÇÃO ORAL"
+}, {
+  "id": "267",
+  "label": "IMIPRAMINA 25 MG COMP",
+  "mensagem": "",
+  "cadastro": false,
+  "nome_publico": "IMIPRAMINA 25 MICROGRAMAS - COMPRIMIDOS"
+}, {
+  "id": "91",
+  "label": "IRF - INSULINA NPH HUMANA 100 UI SOL INJ",
+  "mensagem": "",
+  "cadastro": false,
+  "nome_publico": "IRF - INSULINA NPH HUMANA 100 UI - SOLUÇÃO INJETÁVEL"
+}, {
+  "id": "292",
+  "label": "IRF - INSULINA REGULAR HUMANA 100UI",
+  "mensagem": "",
+  "cadastro": false,
+  "nome_publico": "IRF - INSULINA REGULAR HUMANA 100 UI"
+}, {
+  "id": "76",
+  "label": "ISONIAZIDA 100 MG COMP (DRS VII)",
+  "mensagem": "",
+  "cadastro": false,
+  "nome_publico": "ISONIAZIDA 100 MICROGRAMAS - COMPRIMIDOS"
+}, {
+  "id": "89",
+  "label": "ISONIAZIDA 200 + RIFAMPICINA 300 MG COMP (DRS VII)",
+  "mensagem": "",
+  "cadastro": false,
+  "nome_publico": "ISONIAZIDA 200 + RIFAMPICINA 300 MICROGRAMAS - COMPRIMIDOS"
+}, {
+  "id": "1328",
+  "label": "ISONIAZIDA 75 + RIFAMPICINA 150 MG COMP (DRS VII)",
+  "mensagem": "",
+  "cadastro": false,
+  "nome_publico": "ISONIAZIDA 75 + RIFAMPICINA 150 MICROGRAMAS - COMPRIMIDOS"
+}, {
+  "id": "270",
+  "label": "ISOSSORBIDA (DINITRATO) 5 MG SUBLINGUAL",
+  "mensagem": "",
+  "cadastro": false,
+  "nome_publico": "ISOSSORBIDA (DINITRATO) 5 MICROGRAMAS - SUBLINGUAL"
+}, {
+  "id": "161",
+  "label": "ITRACONAZOL 100 MG COMP",
+  "mensagem": "",
+  "cadastro": false,
+  "nome_publico": "ITRACONAZOL 100 MICROGRAMAS - COMPRIMIDOS"
+}, {
+  "id": "1253",
+  "label": "IVERMECTINA 6 MG",
+  "mensagem": "",
+  "cadastro": false,
+  "nome_publico": "IVERMECTINA 6 MICROGRAMAS"
+}, {
+  "id": "1299",
+  "label": "LACTULOSE 667 MG - XAROPE",
+  "mensagem": "Disponível Mediante Cadastro. Para solicitar, entre em contato com o Centro de Saúde.",
+  "cadastro": true,
+  "nome_publico": "LACTULOSE 667 MICROGRAMAS - XAROPE"
+}, {
+  "id": "1301",
+  "label": "LEVODOPA 100 MG + BENSERAZIDA 25 MG CPR DISPERSÍVEL",
+  "mensagem": "",
+  "cadastro": false,
+  "nome_publico": "LEVODOPA 100 MICROGRAMAS + BENSERAZIDA 25 MICROGRAMAS - COMPRIMIDOS DISPERSÍVEIS"
+}, {
+  "id": "1287",
+  "label": "LEVODOPA 100 MG + BENSERAZIDA 25 MG HBS CPR",
+  "mensagem": "",
+  "cadastro": false,
+  "nome_publico": "LEVODOPA 100 MICROGRAMAS + BENSERAZIDA 25 MICROGRAMAS HBS - COMPRIMIDOS"
+}, {
+  "id": "1288",
+  "label": "LEVODOPA 200 MG + BENSERAZIDA 50 MG - COMPRIMIDO",
+  "mensagem": "",
+  "cadastro": false,
+  "nome_publico": "LEVODOPA 200 MICROGRAMAS + BENSERAZIDA 50 MICROGRAMAS - COMPRIMIDOS"
+}, {
+  "id": "1290",
+  "label": "LEVODOPA 250 MG + CARBIDOPA 25 MG",
+  "mensagem": "",
+  "cadastro": false,
+  "nome_publico": "LEVODOPA 250 MICROGRAMAS + CARBIDOPA 25 MICROGRAMAS"
+}, {
+  "id": "1218",
+  "label": "LEVOFLOXACINA 500 MG",
+  "mensagem": "Disponível Mediante Cadastro. Para solicitar, entre em contato com o Centro de Saúde.",
+  "cadastro": true,
+  "nome_publico": "LEVOFLOXACINA 500 MICROGRAMAS"
+}, {
+  "id": "29",
+  "label": "LEVOMEPROMAZINA 100 MG COMP",
+  "mensagem": "",
+  "cadastro": false,
+  "nome_publico": "LEVOMEPROMAZINA 100 MICROGRAMAS - COMPRIMIDOS"
+}, {
+  "id": "338",
+  "label": "LEVOMEPROMAZINA 25 MG  COMP",
+  "mensagem": "",
+  "cadastro": false,
+  "nome_publico": "LEVOMEPROMAZINA 25 MICROGRAMAS - COMPRIMIDOS"
+}, {
+  "id": "168",
+  "label": "LEVOMEPROMAZINA 4% SOL ORAL",
+  "mensagem": "",
+  "cadastro": false,
+  "nome_publico": "LEVOMEPROMAZINA 4% - SOLUÇÃO ORAL"
+}, {
+  "id": "152",
+  "label": "LEVONORG+ETINILESL 0,15+0,03MG(ANTIC.BAIXA) CARTELA C/21 CPR",
+  "mensagem": "",
+  "cadastro": false,
+  "nome_publico": "LEVONOR + ETINILESTRADIOL 0,15 + 0,03 MICROGRAMAS (ANTICONCEPCIONAL BAIXA) - CARTELA COM 21 COMPRIMIDOS"
+}, {
+  "id": "1048",
+  "label": "LEVONORGESTREL 0,75 MG - COMP (CARTELA 2 UNIDADES)",
+  "mensagem": "",
+  "cadastro": false,
+  "nome_publico": "LEVONORGESTREL 0,75 MICROGRAMAS - CÁPSULAS"
+}, {
+  "id": "1094",
+  "label": "LEVOTIROXINA 0,025MG OU 25MCG  CP/DR/CAP",
+  "mensagem": "",
+  "cadastro": false,
+  "nome_publico": "LEVOTIROXINA 0,025 MICROGRAMAS OU 25 MICROGRAMAS - COMPRIMIDOS, DRÁGEAS OU CÁPSULAS"
+}, {
+  "id": "1293",
+  "label": "LEVOTIROXINA 0,050 MG OU 50 MCG  CP/DR/CAP",
+  "mensagem": "",
+  "cadastro": false,
+  "nome_publico": "LEVOTIROXINA 0,050 MICROGRAMAS OU 50 MICROGRAMAS - COMPRIMIDOS, DRÁGEAS OU CÁPSULAS"
+}, {
+  "id": "298",
+  "label": "LEVOTIROXINA 0,1 MG OU 100 MCG  CP/DR/CAP",
+  "mensagem": "",
+  "cadastro": false,
+  "nome_publico": "LEVOTIROXINA 0,1 MICROGRAMAS OU 100 MICROGRAMAS - COMPRIMIDOS, DRÁGEAS OU CÁPSULAS"
+}, {
+  "id": "130",
+  "label": "LIDOCAINA 02% GEL",
+  "mensagem": "",
+  "cadastro": false,
+  "nome_publico": "LIDOCAÍNA 02% - GEL"
+}, {
+  "id": "84",
+  "label": "LIDOCAINA 10% SPRAY",
+  "mensagem": "",
+  "cadastro": false,
+  "nome_publico": "LIDOCAÍNA 10% - SPRAY"
+}, {
+  "id": "1307",
+  "label": "LORATADINA 10 MG - COMPRIMIDO",
+  "mensagem": "",
+  "cadastro": false,
+  "nome_publico": "LORATADINA 10 MICROGRAMAS - COMPRIMIDOS"
+}, {
+  "id": "1359",
+  "label": "LORATADINA 1MG/ML XAROPE (FRASCO COM 100ML)",
+  "mensagem": "",
+  "cadastro": false,
+  "nome_publico": "LORATADINA XAROPE 1 MICROGRAMA POR MILILITRO - FRASCO COM 100 MILILITROS"
+}, {
+  "id": "1177",
+  "label": "LOSARTAN 50 MG",
+  "mensagem": "",
+  "cadastro": false,
+  "nome_publico": "LOSARTANA 50 MICROGRAMAS"
+}, {
+  "id": "51",
+  "label": "MEBENDAZOL  20 MG/ML SUSP - 30 ML",
+  "mensagem": "",
+  "cadastro": false,
+  "nome_publico": "MEBENDAZOL SUSPENSÃO 20 MICROGRAMAS POR MILILITRO - 30 MILILITROS"
+}, {
+  "id": "1322",
+  "label": "MEDROXIPROGESTERONA 10 MG - COMPRIMIDO",
+  "mensagem": "",
+  "cadastro": false,
+  "nome_publico": "MEDROXIPROGESTERONA 10 MICROGRAMAS - COMPRIMIDOS"
+}, {
+  "id": "225",
+  "label": "MEDROXIPROGESTERONA 150 MG/ML SOL INJ",
+  "mensagem": "",
+  "cadastro": false,
+  "nome_publico": "MEDROXIPROGESTERONA 150 MICROGRAMAS POR MILILITRO - SOLUÇÃO INJETÁVEL"
+}, {
+  "id": "1044",
+  "label": "MEGLUMINA ANTIMONIATO 300 MG/ML  INJ 5 ML (GLUCANTIME) DRS",
+  "mensagem": "Disponível Mediante Cadastro. Para solicitar, entre em contato com o Centro de Saúde.",
+  "cadastro": true,
+  "nome_publico": "MEGLUMINA ANTIMONIATO (GLUCANTIME) 300 MICROGRAMAS POR MILILITRO - INJEÇÃO COM 5 MILILITROS"
+}, {
+  "id": "311",
+  "label": "METFORMINA 850 MG COMP",
+  "mensagem": "",
+  "cadastro": false,
+  "nome_publico": "METFORMINA 850 MICROGRAMAS - COMPRIMIDOS"
+}, {
+  "id": "210",
+  "label": "METILDOPA 250 MG COMP REVESTIDO",
+  "mensagem": "",
+  "cadastro": false,
+  "nome_publico": "METILDOPA 250 MICROGRAMAS - COMPRIMIDOS REVESTIDOS"
+}, {
+  "id": "324",
+  "label": "METILFENIDATO 10 MG COMP (RITALINA®)",
+  "mensagem": "Disponível Mediante Cadastro. Para solicitar, entre em contato com o Centro de Saúde.",
+  "cadastro": true,
+  "nome_publico": "METILFENIDATO (RITALINA) 10 MICROGRAMAS - COMPRIMIDOS"
+}, {
+  "id": "326",
+  "label": "METOCLOPRAMIDA 0,4% SOL ORAL",
+  "mensagem": "",
+  "cadastro": false,
+  "nome_publico": "METOCLOPRAMIDA 0,4% - SOLUÇÃO ORAL"
+}, {
+  "id": "105",
+  "label": "METOCLOPRAMIDA 10 MG COMP",
+  "mensagem": "",
+  "cadastro": false,
+  "nome_publico": "METOCLOPRAMIDA 10 MICROGRAMAS - COMPRIMIDOS"
+}, {
+  "id": "39",
+  "label": "METRONIDAZOL   4% SOL ORAL",
+  "mensagem": "",
+  "cadastro": false,
+  "nome_publico": "METRONIDAZOL  4% - SOLUÇÃO ORAL"
+}, {
+  "id": "19",
+  "label": "METRONIDAZOL 250 MG COMP",
+  "mensagem": "",
+  "cadastro": false,
+  "nome_publico": "METRONIDAZOL 250 MICROGRAMAS - COMPRIMIDOS"
+}, {
+  "id": "62",
+  "label": "METRONIDAZOL 500 MG GEL GINECOLOGICO",
+  "mensagem": "",
+  "cadastro": false,
+  "nome_publico": "METRONIDAZOL 500 MICROGRAMAS - GEL GINECOLÓGICO"
+}, {
+  "id": "1374",
+  "label": "MICONAZOL 2% LOÇÃO  (FRASCO COM 30ML) ",
+  "mensagem": "",
+  "cadastro": false,
+  "nome_publico": "MICONAZOL 2% LOÇÃO - FRASCO COM 30 MILILITROS"
+}, {
+  "id": "1127",
+  "label": "MICONAZOL 20 MG - CREME GINEC. BISNAGA 80 G + APLICADOR",
+  "mensagem": "",
+  "cadastro": false,
+  "nome_publico": "MICONAZOL 20 MICROGRAMAS - CREME GINECOLÓGICO - BISNAGA COM 80 GRAMAS + APLICADOR"
+}, {
+  "id": "1333",
+  "label": "MONONITRATO DE ISOSSORBIDA 40MG CPR",
+  "mensagem": "",
+  "cadastro": false,
+  "nome_publico": "MONONITRATO DE ISOSSORBIDA 40 MICROGRAMAS - COMPRIMIDOS"
+}, {
+  "id": "103",
+  "label": "NISTATINA 100.000 UI/ML SOLUCAO",
+  "mensagem": "",
+  "cadastro": false,
+  "nome_publico": "NISTATINA 100.000 UI POR MILILITRO - SOLUÇÃO"
+}, {
+  "id": "200",
+  "label": "NITRAZEPAN 5 MG COMP",
+  "mensagem": "Disponível Mediante Cadastro. Para solicitar, entre em contato com o Centro de Saúde.",
+  "cadastro": true,
+  "nome_publico": "NITRAZEPAM 5 MICROGRAMAS - COMPRIMIDOS"
+}, {
+  "id": "238",
+  "label": "NITROFURANTOINA 100 MG COMP",
+  "mensagem": "",
+  "cadastro": false,
+  "nome_publico": "NITROFURANTOÍNA 100 MICROGRAMAS - COMPRIMIDOS"
+}, {
+  "id": "83",
+  "label": "NORETISTERONA 0,35MG (ANTICONC LACTANTE) CARTELA C/35 CPR",
+  "mensagem": "",
+  "cadastro": false,
+  "nome_publico": "NORETISTERONA 0,35 MICROGRAMAS (ANTICONCEPCIONAL LACTANTE) - CARTELA COM 35 COMPRIMIDOS"
+}, {
+  "id": "68",
+  "label": "NORTRIPTILINA CLORIDRATO 25 MG COMP",
+  "mensagem": "",
+  "cadastro": false,
+  "nome_publico": "NORTRIPTILINA CLORIDRATO 25 MICROGRAMAS - COMPRIMIDOS"
+}, {
+  "id": "252",
+  "label": "OLEO MINERAL LAXANTE FR. C/ 100 ML",
+  "mensagem": "",
+  "cadastro": false,
+  "nome_publico": "ÓLEO MINERAL LAXANTE - FRASCO COM 100 MILILITROS"
+}, {
+  "id": "1278",
+  "label": "OMEPRAZOL 20 MG CPR,  DGA OU CPS",
+  "mensagem": "",
+  "cadastro": false,
+  "nome_publico": "OMEPRAZOL 20 MICROGRAMAS - COMPRIMIDOS, DRÁGEAS OU CÁPSULAS"
+}, {
+  "id": "1329",
+  "label": "OSELTAMIVIR 30 MG CPR",
+  "mensagem": "",
+  "cadastro": false,
+  "nome_publico": "OSELTAMIVIR 30 MICROGRAMAS - COMPRIMIDOS"
+}, {
+  "id": "1330",
+  "label": "OSELTAMIVIR 45 MG CPR",
+  "mensagem": "",
+  "cadastro": false,
+  "nome_publico": "OSELTAMIVIR 45 MICROGRAMAS - COMPRIMIDOS"
+}, {
+  "id": "1331",
+  "label": "OSELTAMIVIR 75 MG CPS",
+  "mensagem": "",
+  "cadastro": false,
+  "nome_publico": "OSELTAMIVIR 75 MICROGRAMAS - COMPRIMIDOS"
+}, {
+  "id": "321",
+  "label": "OXAMINIQUINA 250 MG COMP (MANSIL)",
+  "mensagem": "",
+  "cadastro": false,
+  "nome_publico": "OXAMINIQUINA (MANSIL) 250 MICROGRAMAS - COMPRIMIDOS"
+}, {
+  "id": "319",
+  "label": "OXAMINIQUINA 50 MG/ML SUSP - 12 ML (MANSIL)",
+  "mensagem": "",
+  "cadastro": false,
+  "nome_publico": "OXAMINIQUINA (MANSIL) 50 MICROGRAMAS POR MILILITRO - SUSPENSÃO 12 MILILITROS"
+}, {
+  "id": "285",
+  "label": "PALMITATO PIPOTIAZINA 25 MG/ML SOL INJ",
+  "mensagem": "",
+  "cadastro": false,
+  "nome_publico": "PALMITATO PIPOTIAZINA 25 MICROGRAMAS POR MILILITRO - SOLUÇÃO INJETÁVEL"
+}, {
+  "id": "88",
+  "label": "PARACETAMOL 200 MG/ML SOL. ORAL  FR 15 ML",
+  "mensagem": "",
+  "cadastro": false,
+  "nome_publico": "PARACETAMOL 200 MICROGRAMAS POR MILILITRO - SOLUÇÃO ORAL - FRASCO COM 15 MILILITROS"
+}, {
+  "id": "257",
+  "label": "PARACETAMOL 500MG COMP",
+  "mensagem": "",
+  "cadastro": false,
+  "nome_publico": "PARACETAMOL 500 MICROGRAMAS - COMPRIMIDOS"
+}, {
+  "id": "1323",
+  "label": "PASTILHA DE NICOTINA DE 4 MG USO ORAL",
+  "mensagem": "Disponível Mediante Cadastro. Para solicitar, entre em contato com o Centro de Saúde.",
+  "cadastro": true,
+  "nome_publico": "PASTILHA DE NICOTINA DE 4 MICROGRAMAS - USO ORAL"
+}, {
+  "id": "353",
+  "label": "PENICILINA G. BENZATINA   600.000 UI SOL INJ",
+  "mensagem": "",
+  "cadastro": false,
+  "nome_publico": "PENICILINA G. BENZATINA 600.000 UI - SOLUÇÃO INJETÁVEL"
+}, {
+  "id": "36",
+  "label": "PENICILINA G. BENZATINA 1.200.000 UI SOL INJ",
+  "mensagem": "",
+  "cadastro": false,
+  "nome_publico": "PENICILINA G. BENZATINA 1.200.000 UI - SOLUÇÃO INJETÁVEL"
+}, {
+  "id": "37",
+  "label": "PENICILINA G. PROC+POTASS 400.000 UI SOL INJ",
+  "mensagem": "",
+  "cadastro": false,
+  "nome_publico": "PENICILINA G. PROCAÍNA + POTÁSSIO 400.000 UI - SOLUÇÃO INJETÁVEL"
+}, {
+  "id": "216",
+  "label": "PERICIAZINA 4 % SOL ORAL",
+  "mensagem": "",
+  "cadastro": false,
+  "nome_publico": "PERICIAZINA 4 % - SOLUÇÃO ORAL"
+}, {
+  "id": "352",
+  "label": "PERMANGANATO POTASSIO 100 MG COMP",
+  "mensagem": "",
+  "cadastro": false,
+  "nome_publico": "PERMANGANATO POTÁSSIO 100 MICROGRAMAS - COMPRIMIDOS"
+}, {
+  "id": "1284",
+  "label": "PERMETRINA 10MG/ML LOÇÃO CAPILAR (FRASCO COM 60ML)",
+  "mensagem": "",
+  "cadastro": false,
+  "nome_publico": "PERMETRINA 10 MICROGRAMAS POR MILILITRO - LOÇÃO CAPILAR (FRASCO COM 60 MILILITROS)"
+}, {
+  "id": "1771",
+  "label": "PERMETRINA 5% LOÇÃO (FRASCO COM 60ML)",
+  "mensagem": "",
+  "cadastro": false,
+  "nome_publico": "PERMETRINA 5% LOÇÃO - FRASCO COM 60 MILILITROS"
+}, {
+  "id": "87",
+  "label": "PIRAZINAMIDA 30 MG/ML SOL ORAL  FR C/ 150 ML (DRS 7)",
+  "mensagem": "Disponível Mediante Cadastro. Para solicitar, entre em contato com o Centro de Saúde.",
+  "cadastro": true,
+  "nome_publico": "PIRAZINAMIDA 30 MICROGRAMAS POR MILILITRO - SOLUÇÃO ORAL - FRASCO COM 150 MILILITROS"
+}, {
+  "id": "75",
+  "label": "PIRAZINAMIDA 500 MG COMP (DRS 7)",
+  "mensagem": "Disponível Mediante Cadastro. Para solicitar, entre em contato com o Centro de Saúde.",
+  "cadastro": true,
+  "nome_publico": "PIRAZINAMIDA 500 MICROGRAMAS - COMPRIMIDOS"
+}, {
+  "id": "345",
+  "label": "PIRIDOXINA 40 MG COMP",
+  "mensagem": "",
+  "cadastro": false,
+  "nome_publico": "PIRIDOXINA 40 MICROGRAMAS - COMPRIMIDOS"
+}, {
+  "id": "342",
+  "label": "PIRIMETAMINA 25 MG COMP",
+  "mensagem": "",
+  "cadastro": false,
+  "nome_publico": "PIRIMETAMINA 25 MICROGRAMAS - COMPRIMIDOS"
+}, {
+  "id": "317",
+  "label": "POLIVITAMINICO ( A+B+D+E) SOL ORAL",
+  "mensagem": "",
+  "cadastro": false,
+  "nome_publico": "POLIVITAMÍNICO ( A + B + D + E) - SOLUÇÃO ORAL"
+}, {
+  "id": "175",
+  "label": "POMADA OXIDO DE ZINCO 45 GRS",
+  "mensagem": "",
+  "cadastro": false,
+  "nome_publico": "POMADA ÓXIDO DE ZINCO 45 GRAMAS"
+}, {
+  "id": "1045",
+  "label": "PRAZIQUANTEL 150 MG - COMPRIMIDO",
+  "mensagem": "Disponível Mediante Cadastro. Para solicitar, entre em contato com o Centro de Saúde.",
+  "cadastro": true,
+  "nome_publico": "PRAZIQUANTEL 150 MICROGRAMAS - COMPRIMIDOS"
+}, {
+  "id": "1041",
+  "label": "PRAZIQUANTEL 600 MG COMP  (DRS 7)",
+  "mensagem": "Disponível Mediante Cadastro. Para solicitar, entre em contato com o Centro de Saúde.",
+  "cadastro": true,
+  "nome_publico": "PRAZIQUANTEL 600 MICROGRAMAS - COMPRIMIDOS"
+}, {
+  "id": "1201",
+  "label": "PREDNISOLONA 3 MG/ML - SOL ORAL",
+  "mensagem": "",
+  "cadastro": false,
+  "nome_publico": "PREDNISOLONA 3 MICROGRAMAS POR MILILITRO - SOLUÇÃO ORAL"
+}, {
+  "id": "11",
+  "label": "PREDNISONA 20 MG COMP",
+  "mensagem": "",
+  "cadastro": false,
+  "nome_publico": "PREDNISONA 20 MICROGRAMAS - COMPRIMIDOS"
+}, {
+  "id": "266",
+  "label": "PREDNISONA 5 MG COMP",
+  "mensagem": "",
+  "cadastro": false,
+  "nome_publico": "PREDNISONA 5 MICROGRAMAS - COMPRIMIDOS"
+}, {
+  "id": "239",
+  "label": "PROMETAZINA 25 MG COMP",
+  "mensagem": "",
+  "cadastro": false,
+  "nome_publico": "PROMETAZINA 25 MICROGRAMAS - COMPRIMIDOS"
+}, {
+  "id": "1055",
+  "label": "PROPILTIOURACILA 100 MG",
+  "mensagem": "",
+  "cadastro": false,
+  "nome_publico": "PROPILTIOURACIL 100 MICROGRAMAS"
+}, {
+  "id": "12",
+  "label": "PROPRANOLOL 40 MG COMP",
+  "mensagem": "",
+  "cadastro": false,
+  "nome_publico": "PROPRANOLOL 40 MICROGRAMAS - COMPRIMIDOS"
+}, {
+  "id": "1312",
+  "label": "RANITIDINA 150 MG CP/DR/CPS",
+  "mensagem": "",
+  "cadastro": false,
+  "nome_publico": "RANITIDINA 150 MICROGRAMAS - COMPRIMIDOS, DRÁGEAS OU CÁPSULAS"
+}, {
+  "id": "1279",
+  "label": "RIF 150 MG + ISO 75 MG + PIRA 400 MG + ETAM 275 MG COXCIP-4",
+  "mensagem": "Disponível Mediante Cadastro. Para solicitar, entre em contato com o Centro de Saúde.",
+  "cadastro": true,
+  "nome_publico": "RIFAMPICINA 150 MICROGRAMAS + ISONIAZIDA 75 MICROGRAMAS + PIRAZINAMIDA 400 MICROGRAMAS + ETAMBUTOL 275 MICROGRAMAS (COXCIP-4)"
+}, {
+  "id": "90",
+  "label": "RIFAMPICINA 20 MG/ML SUSP FRASCO C/ 50 ML",
+  "mensagem": "Disponível Mediante Cadastro. Para solicitar, entre em contato com o Centro de Saúde.",
+  "cadastro": true,
+  "nome_publico": "RIFAMPICINA 20 MICROGRAMAS POR MILILITRO - SUSPENSÃO - FRASCO COM 50 MILILITROS"
+}, {
+  "id": "185",
+  "label": "RIFAMPICINA 300 MG COMP (DIR 7)",
+  "mensagem": "Disponível Mediante Cadastro. Para solicitar, entre em contato com o Centro de Saúde.",
+  "cadastro": true,
+  "nome_publico": "RIFAMPICINA 300 MICROGRAMAS - COMPRIMIDOS"
+}, {
+  "id": "58",
+  "label": "SAIS PARA REIDRATACAO ORAL",
+  "mensagem": "",
+  "cadastro": false,
+  "nome_publico": "SAIS PARA REIDRATAÇÃO ORAL"
+}, {
+  "id": "1098",
+  "label": "SALBUTAMOL SPRAY",
+  "mensagem": "",
+  "cadastro": false,
+  "nome_publico": "SALBUTAMOL - SPRAY"
+}, {
+  "id": "1187",
+  "label": "SERTRALINA 50 MG CPR",
+  "mensagem": "",
+  "cadastro": false,
+  "nome_publico": "SERTRALINA 50 MICROGRAMAS - COMPRIMIDOS"
+}, {
+  "id": "1291",
+  "label": "SINVASTATINA 10MG CPR/CPS/DG",
+  "mensagem": "",
+  "cadastro": false,
+  "nome_publico": "SINVASTATINA 10 MICROGRAMAS - COMPRIMIDOS, DRÁGEAS OU CÁPSULAS"
+}, {
+  "id": "1292",
+  "label": "SINVASTATINA 20 MG CPR",
+  "mensagem": "",
+  "cadastro": false,
+  "nome_publico": "SINVASTATINA 20 MICROGRAMAS - COMPRIMIDOS"
+}, {
+  "id": "1296",
+  "label": "SINVASTATINA 40 MG CPR",
+  "mensagem": "",
+  "cadastro": false,
+  "nome_publico": "SINVASTATINA 40 MICROGRAMAS - COMPRIMIDOS"
+}, {
+  "id": "314",
+  "label": "SOL OTOL POLIMIXINA B + LIDOCAINA",
+  "mensagem": "",
+  "cadastro": false,
+  "nome_publico": "POLIMIXINA B + LIDOCAÍNA - SOLUÇÃO OTOLÓGICA"
+}, {
+  "id": "136",
+  "label": "SORO GLICERINADO 12%  FR C/ 500  ML - (CLISTER)",
+  "mensagem": "",
+  "cadastro": false,
+  "nome_publico": "SORO GLICERINADO 12% - FRASCO COM 500 MILILITROS - CLISTER"
+}, {
+  "id": "24",
+  "label": "SULFADIAZINA 500 MG COMP",
+  "mensagem": "",
+  "cadastro": false,
+  "nome_publico": "SULFADIAZINA 500 MICROGRAMAS - COMPRIMIDOS"
+}, {
+  "id": "13",
+  "label": "SULFAMETOXAZOL + TRIMETROPIM COMP (400+80)",
+  "mensagem": "",
+  "cadastro": false,
+  "nome_publico": "SULFAMETOXAZOL + TRIMETROPIMA  - COMPRIMIDOS 400 MICROGRAMAS + 80 MICROGRAMAS"
+}, {
+  "id": "52",
+  "label": "SULFAMETOXAZOL + TRIMETROPIM SUSP 4%+8%",
+  "mensagem": "",
+  "cadastro": false,
+  "nome_publico": "SULFAMETOXAZOL + TRIMETROPIMA - SUSPENSÃO 4% + 8%"
+}, {
+  "id": "159",
+  "label": "SULFATO DE ESTREPTOMICINA 1 G SOL INJ (DRS 7)",
+  "mensagem": "Disponível Mediante Cadastro. Para solicitar, entre em contato com o Centro de Saúde.",
+  "cadastro": true,
+  "nome_publico": "SULFATO DE ESTREPTOMICINA 1 GRAMA - SOLUÇÃO INJETÁVEL"
+}, {
+  "id": "40",
+  "label": "SULFATO FERROSO (25 MG DE FERRO) GOTAS - FR 30ML",
+  "mensagem": "",
+  "cadastro": false,
+  "nome_publico": "SULFATO FERROSO GOTAS (25 MICROGRAMAS DE FERRO) - FRASCO COM 30 MILILITROS"
+}, {
+  "id": "14",
+  "label": "SULFATO FERROSO 40 MG COMP",
+  "mensagem": "",
+  "cadastro": false,
+  "nome_publico": "SULFATO FERROSO 40 MICROGRAMAS - COMPRIMIDOS"
+}, {
+  "id": "169",
+  "label": "SULFATO NEOMICINA 5MG+ACETATO CLOSTEBOL 5MG CR VAG",
+  "mensagem": "",
+  "cadastro": false,
+  "nome_publico": "SULFATO DE NEOMICINA 5 MICROGRAMAS + ACETATO DE CLOSTEBOL 5 MICROGRAMAS - CREME VAGINAL"
+}, {
+  "id": "74",
+  "label": "TALIDOMIDA 100 MG COMP (DRS 7)",
+  "mensagem": "Disponível Mediante Cadastro. Para solicitar, entre em contato com o Centro de Saúde.",
+  "cadastro": true,
+  "nome_publico": "TALIDOMIDA 100 MICROGRAMAS - COMPRIMIDOS"
+}, {
+  "id": "297",
+  "label": "TETRACICLINA 500 MG COMP",
+  "mensagem": "",
+  "cadastro": false,
+  "nome_publico": "TETRACICLINA 500 MICROGRAMAS - COMPRIMIDOS"
+}, {
+  "id": "262",
+  "label": "TIAMINA 300 MG COMP",
+  "mensagem": "",
+  "cadastro": false,
+  "nome_publico": "TIAMINA 300 MICROGRAMAS - COMPRIMIDOS"
+}, {
+  "id": "1233",
+  "label": "TICLOPIDINA 250 MG - CP/DR/CAP ",
+  "mensagem": "Disponível Mediante Cadastro. Para solicitar, entre em contato com o Centro de Saúde.",
+  "cadastro": true,
+  "nome_publico": "TICLOPIDINA 250 MICROGRAMAS - COMPRIMIDOS, DRÁGEAS OU CÁPSULAS"
+}, {
+  "id": "1297",
+  "label": "TOBRAMICINA SOLUÇÃO OFTÁLMICA 3MG/ML, FRASCO COM 5ML",
+  "mensagem": "",
+  "cadastro": false,
+  "nome_publico": "TOBRAMICINA SOLUÇÃO OFTÁLMICA 3 MICROGRAMAS POR MILILITRO - FRASCO COM 5 MILILITROS"
+}, {
+  "id": "97",
+  "label": "TRATAMENTO MULTIBACILAR ADULTO (DRS 7)",
+  "mensagem": "Disponível Mediante Cadastro. Para solicitar, entre em contato com o Centro de Saúde.",
+  "cadastro": true,
+  "nome_publico": "TRATAMENTO MULTIBACILAR ADULTO"
+}, {
+  "id": "307",
+  "label": "TRATAMENTO MULTIBACILAR INFANTIL (DRS 7)",
+  "mensagem": "Disponível Mediante Cadastro. Para solicitar, entre em contato com o Centro de Saúde.",
+  "cadastro": true,
+  "nome_publico": "TRATAMENTO MULTIBACILAR INFANTIL"
+}, {
+  "id": "98",
+  "label": "TRATAMENTO PAUCIBACILAR ADULTO (DRS 7)",
+  "mensagem": "Disponível Mediante Cadastro. Para solicitar, entre em contato com o Centro de Saúde.",
+  "cadastro": true,
+  "nome_publico": "TRATAMENTO PAUCIBACILAR ADULTO"
+}, {
+  "id": "199",
+  "label": "TRATAMENTO PAUCIBACILAR INFANTIL (DRS 7)",
+  "mensagem": "Disponível Mediante Cadastro. Para solicitar, entre em contato com o Centro de Saúde.",
+  "cadastro": true,
+  "nome_publico": "TRATAMENTO PAUCIBACILAR INFANTIL"
+}, {
+  "id": "1093",
+  "label": "VARFARINA 5 MG",
+  "mensagem": "",
+  "cadastro": false,
+  "nome_publico": "VARFARINA 5 MICROGRAMAS"
+}, {
+  "id": "1268",
+  "label": "VENLAFAXINA 75 MG",
+  "mensagem": "Disponível Mediante Cadastro. Para solicitar, entre em contato com o Centro de Saúde.",
+  "cadastro": true,
+  "nome_publico": "VENLAFAXINA 75 MICROGRAMAS"
+}, {
+  "id": "1355",
+  "label": "VERAPAMIL (CLORIDRATO) 120MG CPR DE LIBERAÇÃO CONTROLADA",
+  "mensagem": "",
+  "cadastro": false,
+  "nome_publico": "VERAPAMIL (CLORIDRATO) 120 MICROGRAMAS - COMPRIMIDOS DE LIBERAÇÃO CONTROLADA"
+}, {
+  "id": "235",
+  "label": "VITAMINA COMPLEXO B COMP",
+  "mensagem": "",
+  "cadastro": false,
+  "nome_publico": "VITAMINA COMPLEXO B - COMPRIMIDOS"
+}]
