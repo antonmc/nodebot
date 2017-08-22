@@ -3,6 +3,8 @@
 var express = require('express');
 var bodyParser = require('body-parser');
 
+var request=require('request');
+
 // cfenv provides access to your Cloud Foundry environment
 // for more info, see: https://www.npmjs.com/package/cfenv
 var cfenv = require('cfenv');
@@ -40,8 +42,30 @@ app.post('/outpost', function(req, res) {
 
       if (response.entities[0].entity === 'druglist') {
         console.log('here is where to search for the drugs');
-      }
 
+        var remedies = 'https://gateway-cidadao.campinas.sp.gov.br/api/v1/remedios';
+
+        var json = {
+          "name": "Test",
+          "email": "test@xxxx.in",
+          "phone": "989898xxxx"
+        };
+
+        var options = {
+          url: remedies,
+          method: 'GET',
+          headers: {
+            'Content-Type': 'application/json','User-Agent':'Mozilla'
+          },
+          json: json
+        };
+
+        request(options, function(err, res, body) {
+          if (res && (res.statusCode === 200 || res.statusCode === 201)) {
+            console.log(body);
+          }
+        });
+      }
     }
 
     // switch (response.intents[0].intent) {
