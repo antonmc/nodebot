@@ -26,28 +26,47 @@ var config = require('./config/credentials.json');
 
 var body = '';
 
+var latitude;
+var longitude;
+
 var chatbot = require('./bot.js');
 
 //This function takes in latitude and longitude of two location and returns the distance between them as the crow flies (in km)
 
-function calcCrow(lat1, lon1, lat2, lon2){
+function calcCrow(lat1, lon1, lat2, lon2) {
   let R = 6371; // km
-  let dLat = this.toRad(lat2-lat1);
-  let dLon = this.toRad(lon2-lon1);
-  lat1 = this.toRad(lat1);
-  lat2 = this.toRad(lat2);
+  let dLat = toRad(lat2 - lat1);
+  let dLon = toRad(lon2 - lon1);
+  lat1 = toRad(lat1);
+  lat2 = toRad(lat2);
 
-  let a = Math.sin(dLat/2) * Math.sin(dLat/2) +
-    Math.sin(dLon/2) * Math.sin(dLon/2) * Math.cos(lat1) * Math.cos(lat2);
-  let c = 2 * Math.atan2(Math.sqrt(a), Math.sqrt(1-a));
+  let a = Math.sin(dLat / 2) * Math.sin(dLat / 2) + Math.sin(dLon / 2) * Math.sin(dLon / 2) * Math.cos(lat1) * Math.cos(lat2);
+  let c = 2 * Math.atan2(Math.sqrt(a), Math.sqrt(1 - a));
   let d = R * c;
   return d;
 }
 
-    // Converts numeric degrees to radians
+// Converts numeric degrees to radians
 function toRad(Value) {
   return Value * Math.PI / 180;
 }
+
+// Set geographic location
+
+app.post('/location', function(req, res) {
+
+  console.log('setting geographic location');
+
+  res.setHeader('Content-Type', 'application/json');
+
+  latitude = parseFloat(req.body.latitude);
+  longitude = parseFloat(req.body.longitude);
+
+  res.send(JSON.stringify({
+    outcome: "success"
+  }, null, 3));
+
+});
 
 app.post('/outpost', function(req, res) {
 
@@ -57,7 +76,7 @@ app.post('/outpost', function(req, res) {
 
   if (req.body.drug) {
 
-    console.log( 'this is where we look for a clinic' );
+    console.log('this is where we look for a clinic');
 
     var clinics = 'https://gateway-cidadao.campinas.sp.gov.br/api/v1/remedios/centros/saude';
     clinics = clinics + '?id_remedio=' + req.body.drug.id;
@@ -74,17 +93,37 @@ app.post('/outpost', function(req, res) {
 
     request(options, function(err, newresponse, clinics) {
 
-      console.log(newresponse);
+      console.log(newresponse.body);
 
       if (newresponse && (newresponse.statusCode === 200 || newresponse.statusCode === 201)) {
 
         var closestIndex = 0;
 
-        // var  = newresponse.body;
+        var postoDeSaudes = JSON.parse(newresponse.body);
 
-        // postoDeSaude
+        console.log('testing data structure')
 
-        console.log(clinics);
+        console.log(postoDeSaudes[0]);
+
+        for (var count = 0; count < postoDeSaudes.length; count++) {
+
+          var clinicLat = postoDeSaudes[count].lat;
+          var clinicLng = postoDeSaudes[count].lng;
+
+          console.log(postoDeSaudes[count]);
+
+          console.log(clinicLat);
+          console.log(clinicLng);
+
+          console.log(latitude);
+          console.log(longitude);
+
+          var distance = calcCrow(latitude, longitude, clinicLat, clinicLng );
+          console.log(distance);
+
+        }
+
+        // console.log(clinics);
       }
     })
   } else {
@@ -160,18 +199,18 @@ app.post('/outpost', function(req, res) {
         res.send(JSON.stringify(response, null, 3));
       }
 
-    // switch (response.intents[0].intent) {
-    //     default: console.log('case statement - default - ' + response.intents[0].intent);
-    //     break;
-    // }
+      // switch (response.intents[0].intent) {
+      //     default: console.log('case statement - default - ' + response.intents[0].intent);
+      //     break;
+      // }
 
-    // if( response.entities[0] !== null && response.entities[0].entity === 'druglist'){
-    //   console.log('here is where to search for the drugs');
-    // }
+      // if( response.entities[0] !== null && response.entities[0].entity === 'druglist'){
+      //   console.log('here is where to search for the drugs');
+      // }
 
-    // res.send(JSON.stringify(response, null, 3));
-  });
-}
+      // res.send(JSON.stringify(response, null, 3));
+    });
+  }
 });
 
 // start server on the specified port and binding host
