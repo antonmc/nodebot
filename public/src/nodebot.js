@@ -177,3 +177,11 @@ function scoutBubble(message) {
   conversation.appendChild(bubble);
   conversation.scrollTop = conversation.scrollHeight;
 }
+
+function mapBubble(element){
+  console.log('map bubble');
+  var bubble = document.createElement('div');
+  bubble.className = 'mapfragment';
+  bubble.innerHTML = '<div id="' + Math.random() + 'map"></div>'
+
+}
