@@ -110,18 +110,24 @@ app.post('/outpost', function(req, res) {
           var clinicLat = postoDeSaudes[count].lat;
           var clinicLng = postoDeSaudes[count].lng;
 
-          console.log(postoDeSaudes[count]);
+          // console.log(postoDeSaudes[count]);
+          //
+          // console.log(clinicLat);
+          // console.log(clinicLng);
+          //
+          // console.log(latitude);
+          // console.log(longitude);
 
-          console.log(clinicLat);
-          console.log(clinicLng);
+          postoDeSaudes[count].distance = calcCrow(latitude, longitude, clinicLat, clinicLng );
 
-          console.log(latitude);
-          console.log(longitude);
+          if(postoDeSaudes[count].distance < postoDeSaudes[closestIndex].distance ){
+              closestIndex = count;
+          }
 
-          var distance = calcCrow(latitude, longitude, clinicLat, clinicLng );
-          console.log(distance);
-
+          // console.log(distance);
         }
+
+        console.log('closest clinic: ' + postoDeSaudes[closestIndex].nome )
 
         // console.log(clinics);
       }
