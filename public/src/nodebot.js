@@ -1,6 +1,8 @@
 var params = {}; // Object for parameters sent to the Watson Conversation service
 var context;
 
+var drugs;
+
 function initialize() {}
 
 function resize(event) {}
@@ -25,15 +27,25 @@ function handleInput(e) {
         text = userInput.value; // Using text as a recurring variable through functions
         text = text.replace(/(\r\n|\n|\r)/gm, ""); // Remove erroneous characters
 
+
+
         // If there is any input then check if this is a claim step
         // Some claim steps are handled in newEvent and others are handled in userMessage
         if (text) {
+
+          if(drugs !== undefined){
+            var index = parseInt(text);
+            personBubble(text);
+            userInput.value = '';
+            sendMessageToWatson(drugs[index].label, drugs[index]);
+            drugs = null;
+          }else{
 
             // Display the user's text in the chat box and null out input box
             personBubble(text);
             userInput.value = '';
 
-            sendMessageToWatson(text);
+            sendMessageToWatson(text);}
 
         } else {
 
@@ -46,11 +58,12 @@ function handleInput(e) {
     }
 }
 
-function sendMessageToWatson(message) {
+function sendMessageToWatson(message,drug) {
 
     // Set parameters for payload to Watson Conversation
 
     params.text = message; // User defined text to be sent to service
+    if(drug){params.drug = drug;}
 
     if (context) {
         params.context = context;
@@ -75,6 +88,18 @@ function sendMessageToWatson(message) {
             console.log("Got response from Watson: ", text[0]);
 
             scoutBubble(text[0]);
+
+            drugs = response.drugs
+
+            var count = 1;
+
+            if( response.drugs ){
+
+              response.drugs.forEach( function(drug){
+                scoutBubble(count + ': ' + drug.label);
+                count++;
+              })
+            }
 
         } else {
             console.error('Server error for Conversation. Return status of: ', xhr.statusText);
