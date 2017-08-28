@@ -2,91 +2,97 @@
 <html>
 
 <head>
-  <title>NodeBot - a cognitive approach to finding things</title>
-  <meta charset="utf-8">
-  <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-  <link rel="stylesheet" href="stylesheets/nodebot.css">
-  <link href="https://fonts.googleapis.com/css?family=Varela+Round" rel="stylesheet">
-  <link rel="shortcut icon" href="favicon.ico" type="image/x-icon" />
+    <title>NodeBot - a cognitive approach to finding things</title>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="stylesheets/nodebot.css">
+    <link href="https://fonts.googleapis.com/css?family=Varela+Round" rel="stylesheet">
+    <link rel="shortcut icon" href="favicon.ico" type="image/x-icon" />
 </head>
 
 <body id='body' onload="initialize()" onresize="resize()">
-  <div class='complete'>
-    <nav class="banner" role="navigation">
-      <div class="bannerContent">
-        <div class="brand">
-          <img src="images/bird.svg" class="logo">
-          <div class="brandname"> <strong>Dorinha</strong></div>
-        </div>
-        <div class="links">
-          <div class="link">About</div>
-        </div>
-      </div>
-    </nav>
+    <div class="mapfragment" id="TEST"></div>
 
-    <div class="layout">
+    <div class='complete'>
+        <nav class="banner" role="navigation">
+            <div class="bannerContent">
+                <div class="brand">
+                    <img src="images/bird.svg" class="logo">
+                    <div class="brandname"> <strong>Dorinha</strong></div>
+                </div>
+                <div class="links">
+                    <div class="link">About</div>
+                </div>
+            </div>
+        </nav>
 
-      <div class="divide">
+        <div class="layout">
 
-        <div id='conversation' class="infoarea" style="display:flex;">
-          <div class="conversation-title-area">
-            <div class="conversation-image"><img class="conversation-icon" src="images/dorinha.svg">
-            </div>
-            <div class="conversation-description">
-              <div class="conversation-header">Hey Campineiros!</div>
+            <div class="divide">
 
-              <div class="conversation-title">Chat with Dorinha</div>
+                <div id='conversation' class="infoarea" style="display:flex;">
+                    <div class="conversation-title-area">
+                        <div class="conversation-image"><img class="conversation-icon" src="images/dorinha.svg">
+                        </div>
+                        <div class="conversation-description">
+                            <div class="conversation-header">Hey Campineiros!</div>
+
+                            <div class="conversation-title">Chat with Dorinha</div>
+                        </div>
+                    </div>
+                    <div class="conversation-flow" id="conversationflow">
+                        <div class="scoutbot">
+                            <div class="scoutbot-content">I'm Dorinha, a chatbot designed to help you use city services ... </div>
+                        </div>
+                    </div>
+                    <textarea rows="4" id="chatMessage" class="conversation-input" placeholder="ask me s... " onfocus="handleFocus(event)" onkeypress="return handleInput(event)" onkeypress="return handleInput(event)"></textarea>
+                </div>
+                <div id="mindmap" class="mindmap" style="display:none;">
+                    <div class="conversation-title-area">
+                        <div class="conversation-image"><img class="conversation-icon" src="images/fiddle.svg">
+                        </div>
+                        <div class="conversation-description">
+                            <div class="conversation-header">Social Data Concepts</div>
+                            <div class="conversation-title">Recommendations using your media</div>
+                        </div>
+                    </div>
+                    <div class="details">
+                        <div class="social">
+                            <div class="feeds">
+                                <label>Twitter ID: </label>
+                                <input id="twitterid" class="social-entry" type="text" name="last_name" value="" maxlength="100" />
+                                <input id="submit" class="social-button" type="submit" value="Submit" onclick="submit()" />
+                            </div>
+                        </div>
+                        <div class="recommendations">
+                            <div class="detail-header">
+                                <!--                                        <div class="detail-number">2</div>-->
+                                <div class="social-title"> RECOMMENDATION MIND MAP</div>
+                            </div>
+                            <div class="recommendation-container">
+                                <div id="recommendation-map" class="recommendation-map"></div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
             </div>
-          </div>
-          <div class="conversation-flow" id="conversationflow">
-            <div class="scoutbot">
-              <div class="scoutbot-content">I'm Dorinha, a chatbot designed to help you use city services ... </div>
-            </div>
-          </div>
-          <textarea rows="4" id="chatMessage" class="conversation-input" placeholder="ask me s... " onfocus="handleFocus(event)" onkeypress="return handleInput(event)" onkeypress="return handleInput(event)"></textarea>
-        </div>
-        <div id="mindmap" class="mindmap" style="display:none;">
-          <div class="conversation-title-area">
-            <div class="conversation-image"><img class="conversation-icon" src="images/fiddle.svg">
-            </div>
-            <div class="conversation-description">
-              <div class="conversation-header">Social Data Concepts</div>
-              <div class="conversation-title">Recommendations using your media</div>
-            </div>
-          </div>
-          <div class="details">
-            <div class="social">
-              <div class="feeds">
-                <label>Twitter ID: </label>
-                <input id="twitterid" class="social-entry" type="text" name="last_name" value="" maxlength="100" />
-                <input id="submit" class="social-button" type="submit" value="Submit" onclick="submit()" />
-              </div>
-            </div>
-            <div class="recommendations">
-              <div class="detail-header">
-                <!--                                        <div class="detail-number">2</div>-->
-                <div class="social-title"> RECOMMENDATION MIND MAP</div>
-              </div>
-              <div class="recommendation-container">
-                <div id="recommendation-map" class="recommendation-map"></div>
-              </div>
-            </div>
-          </div>
-        </div>
-      </div>
-      <div class="builttext">
-        <div class="built">Built with
-          <a href="https://bluemix.net">IBM Bluemix</a> and <a href="https://www.ibm.com/watson/developercloud/conversation.html">Watson Conversation</a></div>
-        <div class="githubarea">
-          <div class="githublabel">view on github</div>
-          <a class="githubimage" href="https://github.com/antonmc/nodebot">
+            <div class="builttext">
+                <div class="built">Built with
+                    <a href="https://bluemix.net">IBM Bluemix</a> and <a href="https://www.ibm.com/watson/developercloud/conversation.html">Watson Conversation</a></div>
+                <div class="githubarea">
+                    <div class="githublabel">view on github</div>
+                    <a class="githubimage" href="https://github.com/antonmc/nodebot">
                         <img border="0" alt="W3Schools" src="images/github.svg" width="24" height="24">
                     </a>
+                </div>
+            </div>
         </div>
-      </div>
-    </div>
 </body>
 <script src="src/nodebot.js"></script>
+<script async defer src="https://maps.googleapis.com/maps/api/js?key=AIzaSyB9UTKaObKmwVVc3uggMSJjOeWk_nxAdR4">
+
+
+</script>
 
 </html>
